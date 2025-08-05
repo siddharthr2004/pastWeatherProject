@@ -1,0 +1,5002 @@
+[
+  {
+    "longitude": -61.78333,
+    "latitude": 17.11667,
+    "id": "GHCND:ACW00011604"
+  },
+  {
+    "longitude": 1,
+    "latitude": 33.68,
+    "id": "GHCND:AGE00147720"
+  },
+  {
+    "longitude": 8.121,
+    "latitude": 35.432,
+    "id": "GHCND:AGM00060475"
+  },
+  {
+    "longitude": 2.5,
+    "latitude": 27.233,
+    "id": "GHCND:AGM00060630"
+  },
+  {
+    "longitude": 46.017,
+    "latitude": 38.917,
+    "id": "GHCND:AJ000037957"
+  },
+  {
+    "longitude": 46.25,
+    "latitude": 38.9,
+    "id": "GHCND:AM000037958"
+  },
+  {
+    "longitude": -64.266,
+    "latitude": -36.567,
+    "id": "GHCND:AR000087623"
+  },
+  {
+    "longitude": 115.5022,
+    "latitude": -32.0069,
+    "id": "GHCND:ASN00009193"
+  },
+  {
+    "longitude": 115.8808,
+    "latitude": -33.1336,
+    "id": "GHCND:ASN00009642"
+  },
+  {
+    "longitude": 116.7581,
+    "latitude": -31.8836,
+    "id": "GHCND:ASN00010144"
+  },
+  {
+    "longitude": 125.3294,
+    "latitude": -31.0119,
+    "id": "GHCND:ASN00011013"
+  },
+  {
+    "longitude": 120.7031,
+    "latitude": -27.8386,
+    "id": "GHCND:ASN00012314"
+  },
+  {
+    "longitude": 132.8939,
+    "latitude": -12.6594,
+    "id": "GHCND:ASN00014198"
+  },
+  {
+    "longitude": 134.6504,
+    "latitude": -16.455,
+    "id": "GHCND:ASN00014628"
+  },
+  {
+    "longitude": 133.0861,
+    "latitude": -13.3275,
+    "id": "GHCND:ASN00014909"
+  },
+  {
+    "longitude": 136.1442,
+    "latitude": -22.9494,
+    "id": "GHCND:ASN00015602"
+  },
+  {
+    "longitude": 138.0637,
+    "latitude": -29.6481,
+    "id": "GHCND:ASN00017031"
+  },
+  {
+    "longitude": 135.3741,
+    "latitude": -34.3749,
+    "id": "GHCND:ASN00018191"
+  },
+  {
+    "longitude": 136.7,
+    "latitude": -36.0667,
+    "id": "GHCND:ASN00022802"
+  },
+  {
+    "longitude": 138.8901,
+    "latitude": -35.256,
+    "id": "GHCND:ASN00023747"
+  },
+  {
+    "longitude": 139.4542,
+    "latitude": -35.2546,
+    "id": "GHCND:ASN00024536"
+  },
+  {
+    "longitude": 140.5212,
+    "latitude": -36.6539,
+    "id": "GHCND:ASN00026100"
+  },
+  {
+    "longitude": 139.4833,
+    "latitude": -20.7333,
+    "id": "GHCND:ASN00029125"
+  },
+  {
+    "longitude": 145.4803,
+    "latitude": -17.255,
+    "id": "GHCND:ASN00031193"
+  },
+  {
+    "longitude": 148.9536,
+    "latitude": -20.3658,
+    "id": "GHCND:ASN00033106"
+  },
+  {
+    "longitude": 146.9517,
+    "latitude": -21.95,
+    "id": "GHCND:ASN00036047"
+  },
+  {
+    "longitude": 151.9131,
+    "latitude": -23.4422,
+    "id": "GHCND:ASN00039122"
+  },
+  {
+    "longitude": 153.0078,
+    "latitude": -27.5717,
+    "id": "GHCND:ASN00040211"
+  },
+  {
+    "longitude": 153.1794,
+    "latitude": -28.0272,
+    "id": "GHCND:ASN00040852"
+  },
+  {
+    "longitude": 148.5669,
+    "latitude": -25.8428,
+    "id": "GHCND:ASN00043015"
+  },
+  {
+    "longitude": 142.5696,
+    "latitude": -33.3856,
+    "id": "GHCND:ASN00047029"
+  },
+  {
+    "longitude": 148.6625,
+    "latitude": -31.7055,
+    "id": "GHCND:ASN00051018"
+  },
+  {
+    "longitude": 151.6681,
+    "latitude": -30.5167,
+    "id": "GHCND:ASN00056002"
+  },
+  {
+    "longitude": 153.3783,
+    "latitude": -28.5988,
+    "id": "GHCND:ASN00058060"
+  },
+  {
+    "longitude": 152.512,
+    "latitude": -31.8896,
+    "id": "GHCND:ASN00060141"
+  },
+  {
+    "longitude": 151.5766,
+    "latitude": -33.2815,
+    "id": "GHCND:ASN00061366"
+  },
+  {
+    "longitude": 149.1,
+    "latitude": -33.2833,
+    "id": "GHCND:ASN00063065"
+  },
+  {
+    "longitude": 148.2428,
+    "latitude": -33.1281,
+    "id": "GHCND:ASN00065068"
+  },
+  {
+    "longitude": 150.7278,
+    "latitude": -33.8683,
+    "id": "GHCND:ASN00067068"
+  },
+  {
+    "longitude": 150.2275,
+    "latitude": -36.2519,
+    "id": "GHCND:ASN00069017"
+  },
+  {
+    "longitude": 147.1322,
+    "latitude": -38.1156,
+    "id": "GHCND:ASN00085072"
+  },
+  {
+    "longitude": 144.97,
+    "latitude": -37.8075,
+    "id": "GHCND:ASN00086071"
+  },
+  {
+    "longitude": 144.2,
+    "latitude": -37.6,
+    "id": "GHCND:ASN00087005"
+  },
+  {
+    "longitude": 145.1859,
+    "latitude": -36.8886,
+    "id": "GHCND:ASN00088109"
+  },
+  {
+    "longitude": 143.539,
+    "latitude": -38.5304,
+    "id": "GHCND:ASN00090134"
+  },
+  {
+    "longitude": 145.7292,
+    "latitude": -40.9972,
+    "id": "GHCND:ASN00091107"
+  },
+  {
+    "longitude": 147.0794,
+    "latitude": -41.7256,
+    "id": "GHCND:ASN00091306"
+  },
+  {
+    "longitude": 147.3167,
+    "latitude": -42.9667,
+    "id": "GHCND:ASN00094036"
+  },
+  {
+    "longitude": 146.4931,
+    "latitude": -42.1419,
+    "id": "GHCND:ASN00096002"
+  },
+  {
+    "longitude": 143.8486,
+    "latitude": -39.9322,
+    "id": "GHCND:ASN00098001"
+  },
+  {
+    "longitude": -58.983,
+    "latitude": -62.183,
+    "id": "GHCND:AYM00089056"
+  },
+  {
+    "longitude": -147.5,
+    "latitude": -79.25,
+    "id": "GHCND:AYW00067401"
+  },
+  {
+    "longitude": -76.3,
+    "latitude": 25.26667,
+    "id": "GHCND:BFW00012713"
+  },
+  {
+    "longitude": -64.7,
+    "latitude": -13.3,
+    "id": "GHCND:BLM00085109"
+  },
+  {
+    "longitude": 2.93,
+    "latitude": 11.13,
+    "id": "GHCND:BN000005306"
+  },
+  {
+    "longitude": 24.767,
+    "latitude": 53.617,
+    "id": "GHCND:BOM00026834"
+  },
+  {
+    "longitude": 157.267,
+    "latitude": -8.333,
+    "id": "GHCND:BP000091503"
+  },
+  {
+    "longitude": -46.867,
+    "latitude": -17.217,
+    "id": "GHCND:BR001746008"
+  },
+  {
+    "longitude": -52.617,
+    "latitude": -27.117,
+    "id": "GHCND:BR002752004"
+  },
+  {
+    "longitude": -42.817,
+    "latitude": -5.05,
+    "id": "GHCND:BR037041370"
+  },
+  {
+    "longitude": -37.05,
+    "latitude": -10.917,
+    "id": "GHCND:BR048158910"
+  },
+  {
+    "longitude": -41.302,
+    "latitude": -21.698,
+    "id": "GHCND:BRM00083698"
+  },
+  {
+    "longitude": -123.7167,
+    "latitude": 48.7833,
+    "id": "GHCND:CA001012550"
+  },
+  {
+    "longitude": -123.4,
+    "latitude": 48.5,
+    "id": "GHCND:CA001016942"
+  },
+  {
+    "longitude": -123.3167,
+    "latitude": 48.8667,
+    "id": "GHCND:CA00101C04E"
+  },
+  {
+    "longitude": -127.4833,
+    "latitude": 49.5167,
+    "id": "GHCND:CA001022433"
+  },
+  {
+    "longitude": -127.7333,
+    "latitude": 50.9833,
+    "id": "GHCND:CA001026170"
+  },
+  {
+    "longitude": -127.95,
+    "latitude": 50.9167,
+    "id": "GHCND:CA001031110"
+  },
+  {
+    "longitude": -128.0333,
+    "latitude": 50.4333,
+    "id": "GHCND:CA001036572"
+  },
+  {
+    "longitude": -123.9167,
+    "latitude": 49.4667,
+    "id": "GHCND:CA001045100"
+  },
+  {
+    "longitude": -132.1333,
+    "latitude": 53.5,
+    "id": "GHCND:CA001051630"
+  },
+  {
+    "longitude": -126.8167,
+    "latitude": 52.3667,
+    "id": "GHCND:CA001060842"
+  },
+  {
+    "longitude": -130.35,
+    "latitude": 54.1167,
+    "id": "GHCND:CA001064591"
+  },
+  {
+    "longitude": -124.2667,
+    "latitude": 50.5167,
+    "id": "GHCND:CA001068201"
+  },
+  {
+    "longitude": -126.9,
+    "latitude": 54.2,
+    "id": "GHCND:CA001075199"
+  },
+  {
+    "longitude": -122.8167,
+    "latitude": 50.7833,
+    "id": "GHCND:CA001080930"
+  },
+  {
+    "longitude": -124.0833,
+    "latitude": 52.1167,
+    "id": "GHCND:CA001086556"
+  },
+  {
+    "longitude": -119.85,
+    "latitude": 53.1333,
+    "id": "GHCND:CA001092578"
+  },
+  {
+    "longitude": -121.4833,
+    "latitude": 52.2333,
+    "id": "GHCND:CA001095195"
+  },
+  {
+    "longitude": -122.5167,
+    "latitude": 52.0167,
+    "id": "GHCND:CA001096775"
+  },
+  {
+    "longitude": -122.65,
+    "latitude": 51.85,
+    "id": "GHCND:CA00109QR57"
+  },
+  {
+    "longitude": -123.1167,
+    "latitude": 50.15,
+    "id": "GHCND:CA001101300"
+  },
+  {
+    "longitude": -122.55,
+    "latitude": 49.15,
+    "id": "GHCND:CA001102912"
+  },
+  {
+    "longitude": -122.7167,
+    "latitude": 49.2167,
+    "id": "GHCND:CA001106177"
+  },
+  {
+    "longitude": -122.7667,
+    "latitude": 49.0333,
+    "id": "GHCND:CA001107H7R"
+  },
+  {
+    "longitude": -123.05,
+    "latitude": 49.3167,
+    "id": "GHCND:CA00110EF57"
+  },
+  {
+    "longitude": -121.7667,
+    "latitude": 50.5333,
+    "id": "GHCND:CA001114622"
+  },
+  {
+    "longitude": -120.7333,
+    "latitude": 49.4667,
+    "id": "GHCND:CA001123280"
+  },
+  {
+    "longitude": -120.8,
+    "latitude": 50.1167,
+    "id": "GHCND:CA001125070"
+  },
+  {
+    "longitude": -119.6,
+    "latitude": 49.4667,
+    "id": "GHCND:CA001126150"
+  },
+  {
+    "longitude": -118.9333,
+    "latitude": 49.7333,
+    "id": "GHCND:CA001130874"
+  },
+  {
+    "longitude": -118.1333,
+    "latitude": 49.8333,
+    "id": "GHCND:CA001142640"
+  },
+  {
+    "longitude": -117.7333,
+    "latitude": 49.1333,
+    "id": "GHCND:CA001148212"
+  },
+  {
+    "longitude": -115.4667,
+    "latitude": 49.5167,
+    "id": "GHCND:CA001153034"
+  },
+  {
+    "longitude": -119.8,
+    "latitude": 51.0833,
+    "id": "GHCND:CA001160075"
+  },
+  {
+    "longitude": -120.1833,
+    "latitude": 51.3,
+    "id": "GHCND:CA001162265"
+  },
+  {
+    "longitude": -121.2,
+    "latitude": 51.55,
+    "id": "GHCND:CA001164G1E"
+  },
+  {
+    "longitude": -121.3167,
+    "latitude": 50.4167,
+    "id": "GHCND:CA001167637"
+  },
+  {
+    "longitude": -117.15,
+    "latitude": 51.4833,
+    "id": "GHCND:CA001172525"
+  },
+  {
+    "longitude": -116.35,
+    "latitude": 51.45,
+    "id": "GHCND:CA0011790J1"
+  },
+  {
+    "longitude": -120.7333,
+    "latitude": 56.2333,
+    "id": "GHCND:CA001183000"
+  },
+  {
+    "longitude": -125.6333,
+    "latitude": 57.4333,
+    "id": "GHCND:CA001188696"
+  },
+  {
+    "longitude": -124.65,
+    "latitude": 58.65,
+    "id": "GHCND:CA001197860"
+  },
+  {
+    "longitude": -135.05,
+    "latitude": 59.7167,
+    "id": "GHCND:CA00120C036"
+  },
+  {
+    "longitude": -137.5167,
+    "latitude": 65.9167,
+    "id": "GHCND:CA002100413"
+  },
+  {
+    "longitude": -140.2,
+    "latitude": 69.6167,
+    "id": "GHCND:CA002100682"
+  },
+  {
+    "longitude": -133.3833,
+    "latitude": 63.0333,
+    "id": "GHCND:CA002100942"
+  },
+  {
+    "longitude": -135.0667,
+    "latitude": 60.7167,
+    "id": "GHCND:CA002101300"
+  },
+  {
+    "longitude": -134.8667,
+    "latitude": 67.4,
+    "id": "GHCND:CA002201601"
+  },
+  {
+    "longitude": -113.7333,
+    "latitude": 61.9167,
+    "id": "GHCND:CA002202560"
+  },
+  {
+    "longitude": -117.3167,
+    "latitude": 64.1167,
+    "id": "GHCND:CA002203361"
+  },
+  {
+    "longitude": -110.6833,
+    "latitude": 62.4167,
+    "id": "GHCND:CA00220L001"
+  },
+  {
+    "longitude": -94.0667,
+    "latitude": 61.1,
+    "id": "GHCND:CA002301153"
+  },
+  {
+    "longitude": -85.15,
+    "latitude": 73.0333,
+    "id": "GHCND:CA002400400"
+  },
+  {
+    "longitude": -71.1667,
+    "latitude": 68.65,
+    "id": "GHCND:CA002401030"
+  },
+  {
+    "longitude": -85.6667,
+    "latitude": 68.3,
+    "id": "GHCND:CA002402686"
+  },
+  {
+    "longitude": -73.2,
+    "latitude": 68.6167,
+    "id": "GHCND:CA002403948"
+  },
+  {
+    "longitude": -111.7667,
+    "latitude": 53.3833,
+    "id": "GHCND:CA003010698"
+  },
+  {
+    "longitude": -113.1167,
+    "latitude": 53.4333,
+    "id": "GHCND:CA003011854"
+  },
+  {
+    "longitude": -112.9833,
+    "latitude": 53.7833,
+    "id": "GHCND:CA003012278"
+  },
+  {
+    "longitude": -110.7333,
+    "latitude": 52.35,
+    "id": "GHCND:CA003013345"
+  },
+  {
+    "longitude": -110.8833,
+    "latitude": 52.1333,
+    "id": "GHCND:CA003014783"
+  },
+  {
+    "longitude": -111.45,
+    "latitude": 54.3,
+    "id": "GHCND:CA003015672"
+  },
+  {
+    "longitude": -110.8833,
+    "latitude": 53.35,
+    "id": "GHCND:CA003016802"
+  },
+  {
+    "longitude": -113.5333,
+    "latitude": 53.5167,
+    "id": "GHCND:CA00301FFNJ"
+  },
+  {
+    "longitude": -110.8,
+    "latitude": 51.4833,
+    "id": "GHCND:CA003021460"
+  },
+  {
+    "longitude": -113.75,
+    "latitude": 52.4667,
+    "id": "GHCND:CA003023720"
+  },
+  {
+    "longitude": -113.9,
+    "latitude": 52.1833,
+    "id": "GHCND:CA003025480"
+  },
+  {
+    "longitude": -111.6333,
+    "latitude": 51.45,
+    "id": "GHCND:CA00302NH8L"
+  },
+  {
+    "longitude": -114.0167,
+    "latitude": 51.1167,
+    "id": "GHCND:CA003031093"
+  },
+  {
+    "longitude": -113.2833,
+    "latitude": 49.8667,
+    "id": "GHCND:CA0030326QF"
+  },
+  {
+    "longitude": -110.3167,
+    "latitude": 49.6333,
+    "id": "GHCND:CA003034489"
+  },
+  {
+    "longitude": -113.4167,
+    "latitude": 51.05,
+    "id": "GHCND:CA003036200"
+  },
+  {
+    "longitude": -112.6333,
+    "latitude": 49.3167,
+    "id": "GHCND:CA003040735"
+  },
+  {
+    "longitude": -114.1833,
+    "latitude": 49.4667,
+    "id": "GHCND:CA003050600"
+  },
+  {
+    "longitude": -115.9,
+    "latitude": 51.2833,
+    "id": "GHCND:CA003052255"
+  },
+  {
+    "longitude": -116.2167,
+    "latitude": 51.4333,
+    "id": "GHCND:CA003053760"
+  },
+  {
+    "longitude": -116.7167,
+    "latitude": 51.9667,
+    "id": "GHCND:CA003055754"
+  },
+  {
+    "longitude": -114.3667,
+    "latitude": 49.2833,
+    "id": "GHCND:CA003057K55"
+  },
+  {
+    "longitude": -114.3667,
+    "latitude": 54.1167,
+    "id": "GHCND:CA003060532"
+  },
+  {
+    "longitude": -116.4667,
+    "latitude": 53.5833,
+    "id": "GHCND:CA003062239"
+  },
+  {
+    "longitude": -113.5667,
+    "latitude": 54.8667,
+    "id": "GHCND:CA003062957"
+  },
+  {
+    "longitude": -112.9667,
+    "latitude": 54.7667,
+    "id": "GHCND:CA003063690"
+  },
+  {
+    "longitude": -111.7,
+    "latitude": 54.5,
+    "id": "GHCND:CA003065475"
+  },
+  {
+    "longitude": -111.2667,
+    "latitude": 56.3833,
+    "id": "GHCND:CA003066155"
+  },
+  {
+    "longitude": -117.5333,
+    "latitude": 53.4,
+    "id": "GHCND:CA00306A009"
+  },
+  {
+    "longitude": -119.8167,
+    "latitude": 57.3667,
+    "id": "GHCND:CA003070NLN"
+  },
+  {
+    "longitude": -118.4333,
+    "latitude": 56.0833,
+    "id": "GHCND:CA003072525"
+  },
+  {
+    "longitude": -117.4167,
+    "latitude": 57.65,
+    "id": "GHCND:CA003073070"
+  },
+  {
+    "longitude": -114.75,
+    "latitude": 58.4,
+    "id": "GHCND:CA003073924"
+  },
+  {
+    "longitude": -117.4333,
+    "latitude": 56.15,
+    "id": "GHCND:CA003075055"
+  },
+  {
+    "longitude": -119.2,
+    "latitude": 54.9333,
+    "id": "GHCND:CA003076060"
+  },
+  {
+    "longitude": -118.95,
+    "latitude": 55.6167,
+    "id": "GHCND:CA003077615"
+  },
+  {
+    "longitude": -105.2667,
+    "latitude": 50.15,
+    "id": "GHCND:CA004010840"
+  },
+  {
+    "longitude": -103.9833,
+    "latitude": 51.1167,
+    "id": "GHCND:CA004012309"
+  },
+  {
+    "longitude": -102.7333,
+    "latitude": 50.2,
+    "id": "GHCND:CA004014040"
+  },
+  {
+    "longitude": -105.5333,
+    "latitude": 50.3333,
+    "id": "GHCND:CA004015322"
+  },
+  {
+    "longitude": -104.6,
+    "latitude": 50.4667,
+    "id": "GHCND:CA004016641"
+  },
+  {
+    "longitude": -104.1167,
+    "latitude": 51.5667,
+    "id": "GHCND:CA004019007"
+  },
+  {
+    "longitude": -106.3667,
+    "latitude": 50.1333,
+    "id": "GHCND:CA004021600"
+  },
+  {
+    "longitude": -107.15,
+    "latitude": 50.95,
+    "id": "GHCND:CA004024714"
+  },
+  {
+    "longitude": -106.25,
+    "latitude": 49.3333,
+    "id": "GHCND:CA004029029"
+  },
+  {
+    "longitude": -108.3833,
+    "latitude": 49,
+    "id": "GHCND:CA004038116"
+  },
+  {
+    "longitude": -108.5833,
+    "latitude": 52,
+    "id": "GHCND:CA004043653"
+  },
+  {
+    "longitude": -109.5,
+    "latitude": 52.3,
+    "id": "GHCND:CA004047100"
+  },
+  {
+    "longitude": -105.1167,
+    "latitude": 53.4167,
+    "id": "GHCND:CA004052671"
+  },
+  {
+    "longitude": -107.4167,
+    "latitude": 52.4,
+    "id": "GHCND:CA004056381"
+  },
+  {
+    "longitude": -108.4833,
+    "latitude": 55.8667,
+    "id": "GHCND:CA004060980"
+  },
+  {
+    "longitude": -105.3333,
+    "latitude": 55.1333,
+    "id": "GHCND:CA004064130"
+  },
+  {
+    "longitude": -104.4833,
+    "latitude": 53.5,
+    "id": "GHCND:CA004071560"
+  },
+  {
+    "longitude": -102.3167,
+    "latitude": 52.8167,
+    "id": "GHCND:CA004083322"
+  },
+  {
+    "longitude": -99.35,
+    "latitude": 49.8667,
+    "id": "GHCND:CA005010548"
+  },
+  {
+    "longitude": -98.3167,
+    "latitude": 49.9833,
+    "id": "GHCND:CA005012322"
+  },
+  {
+    "longitude": -100.95,
+    "latitude": 49.8333,
+    "id": "GHCND:CA005012960"
+  },
+  {
+    "longitude": -99.65,
+    "latitude": 49.1833,
+    "id": "GHCND:CA005021480"
+  },
+  {
+    "longitude": -98.1,
+    "latitude": 49.3667,
+    "id": "GHCND:CA005022490"
+  },
+  {
+    "longitude": -97.2333,
+    "latitude": 49.8167,
+    "id": "GHCND:CA0050232KJ"
+  },
+  {
+    "longitude": -99.2833,
+    "latitude": 53.15,
+    "id": "GHCND:CA005031111"
+  },
+  {
+    "longitude": -100.9167,
+    "latitude": 52.5167,
+    "id": "GHCND:CA005040218"
+  },
+  {
+    "longitude": -99.4833,
+    "latitude": 51.3167,
+    "id": "GHCND:CA005041686"
+  },
+  {
+    "longitude": -101.2333,
+    "latitude": 52.1167,
+    "id": "GHCND:CA00504K80K"
+  },
+  {
+    "longitude": -96.5167,
+    "latitude": 56.0333,
+    "id": "GHCND:CA005061422"
+  },
+  {
+    "longitude": -97.8667,
+    "latitude": 55.8,
+    "id": "GHCND:CA005062922"
+  },
+  {
+    "longitude": -90.2333,
+    "latitude": 51.2,
+    "id": "GHCND:CA006016890"
+  },
+  {
+    "longitude": -92.75,
+    "latitude": 49.8333,
+    "id": "GHCND:CA006032120"
+  },
+  {
+    "longitude": -89.15,
+    "latitude": 50.2833,
+    "id": "GHCND:CA006040322"
+  },
+  {
+    "longitude": -89.0667,
+    "latitude": 48.65,
+    "id": "GHCND:CA006044138"
+  },
+  {
+    "longitude": -90.35,
+    "latitude": 50.4667,
+    "id": "GHCND:CA006047620"
+  },
+  {
+    "longitude": -83.9167,
+    "latitude": 46.3,
+    "id": "GHCND:CA006051027"
+  },
+  {
+    "longitude": -84.8,
+    "latitude": 48.0667,
+    "id": "GHCND:CA006058010"
+  },
+  {
+    "longitude": -80.8,
+    "latitude": 46.6333,
+    "id": "GHCND:CA006068153"
+  },
+  {
+    "longitude": -83.1667,
+    "latitude": 49.6,
+    "id": "GHCND:CA006075024"
+  },
+  {
+    "longitude": -79.8667,
+    "latitude": 46.45,
+    "id": "GHCND:CA006081928"
+  },
+  {
+    "longitude": -74.6167,
+    "latitude": 45.3167,
+    "id": "GHCND:CA006100166"
+  },
+  {
+    "longitude": -74.7333,
+    "latitude": 45.0167,
+    "id": "GHCND:CA006101872"
+  },
+  {
+    "longitude": -76.5,
+    "latitude": 44.25,
+    "id": "GHCND:CA006104185"
+  },
+  {
+    "longitude": -77.15,
+    "latitude": 45.8333,
+    "id": "GHCND:CA006106362"
+  },
+  {
+    "longitude": -76.2833,
+    "latitude": 44.9167,
+    "id": "GHCND:CA00610FLPR"
+  },
+  {
+    "longitude": -80.5333,
+    "latitude": 45.8,
+    "id": "GHCND:CA006110967"
+  },
+  {
+    "longitude": -79.8667,
+    "latitude": 44.85,
+    "id": "GHCND:CA006113490"
+  },
+  {
+    "longitude": -80.25,
+    "latitude": 45.2667,
+    "id": "GHCND:CA006116258"
+  },
+  {
+    "longitude": -79.8167,
+    "latitude": 44.0333,
+    "id": "GHCND:CA006118848"
+  },
+  {
+    "longitude": -81.5167,
+    "latitude": 43.3,
+    "id": "GHCND:CA006121275"
+  },
+  {
+    "longitude": -82.05,
+    "latitude": 42.85,
+    "id": "GHCND:CA006126498"
+  },
+  {
+    "longitude": -79.95,
+    "latitude": 43.0833,
+    "id": "GHCND:CA006131081"
+  },
+  {
+    "longitude": -80.0833,
+    "latitude": 42.8833,
+    "id": "GHCND:CA006133855"
+  },
+  {
+    "longitude": -80.8833,
+    "latitude": 42.6667,
+    "id": "GHCND:CA006136ER9"
+  },
+  {
+    "longitude": -79.4,
+    "latitude": 43.1833,
+    "id": "GHCND:CA006139146"
+  },
+  {
+    "longitude": -80.45,
+    "latitude": 43.1833,
+    "id": "GHCND:CA006141169"
+  },
+  {
+    "longitude": -80.3833,
+    "latitude": 43.4667,
+    "id": "GHCND:CA006144239"
+  },
+  {
+    "longitude": -80.1833,
+    "latitude": 44.0833,
+    "id": "GHCND:CA006147693"
+  },
+  {
+    "longitude": -79.5333,
+    "latitude": 44.1167,
+    "id": "GHCND:CA006150858"
+  },
+  {
+    "longitude": -80.1167,
+    "latitude": 43.25,
+    "id": "GHCND:CA006151866"
+  },
+  {
+    "longitude": -77.4833,
+    "latitude": 44.5333,
+    "id": "GHCND:CA006154779"
+  },
+  {
+    "longitude": -79.7167,
+    "latitude": 43.45,
+    "id": "GHCND:CA006155PM4"
+  },
+  {
+    "longitude": -79.35,
+    "latitude": 43.7167,
+    "id": "GHCND:CA0061584J2"
+  },
+  {
+    "longitude": -79.4333,
+    "latitude": 43.7333,
+    "id": "GHCND:CA006158846"
+  },
+  {
+    "longitude": -77.8667,
+    "latitude": 45.05,
+    "id": "GHCND:CA006160473"
+  },
+  {
+    "longitude": -78.4,
+    "latitude": 44.3167,
+    "id": "GHCND:CA006166428"
+  },
+  {
+    "longitude": -71.9167,
+    "latitude": 46.6667,
+    "id": "GHCND:CA007011982"
+  },
+  {
+    "longitude": -71.2333,
+    "latitude": 47.5667,
+    "id": "GHCND:CA007015791"
+  },
+  {
+    "longitude": -73.75,
+    "latitude": 45.85,
+    "id": "GHCND:CA007017480"
+  },
+  {
+    "longitude": -72.9167,
+    "latitude": 46.1833,
+    "id": "GHCND:CA00701LP0N"
+  },
+  {
+    "longitude": -70.4,
+    "latitude": 45.8167,
+    "id": "GHCND:CA007022127"
+  },
+  {
+    "longitude": -70.8667,
+    "latitude": 45.6,
+    "id": "GHCND:CA007023675"
+  },
+  {
+    "longitude": -73.55,
+    "latitude": 45.6333,
+    "id": "GHCND:CA007025252"
+  },
+  {
+    "longitude": -73.0667,
+    "latitude": 45.3167,
+    "id": "GHCND:CA007026918"
+  },
+  {
+    "longitude": -72.5333,
+    "latitude": 45.8333,
+    "id": "GHCND:CA007027470"
+  },
+  {
+    "longitude": -72.35,
+    "latitude": 45.6333,
+    "id": "GHCND:CA007028211"
+  },
+  {
+    "longitude": -75.1667,
+    "latitude": 47.2167,
+    "id": "GHCND:CA007030462"
+  },
+  {
+    "longitude": -76,
+    "latitude": 46.2667,
+    "id": "GHCND:CA007034482"
+  },
+  {
+    "longitude": -76.05,
+    "latitude": 46.0667,
+    "id": "GHCND:CA007038975"
+  },
+  {
+    "longitude": -69.0833,
+    "latitude": 48.75,
+    "id": "GHCND:CA007042385"
+  },
+  {
+    "longitude": -68.4,
+    "latitude": 49.3,
+    "id": "GHCND:CA007044453"
+  },
+  {
+    "longitude": -70.9167,
+    "latitude": 46.9167,
+    "id": "GHCND:CA007047396"
+  },
+  {
+    "longitude": -67.3833,
+    "latitude": 50.0167,
+    "id": "GHCND:CA00704J0AF"
+  },
+  {
+    "longitude": -66.2167,
+    "latitude": 48.7,
+    "id": "GHCND:CA007051188"
+  },
+  {
+    "longitude": -66.9333,
+    "latitude": 47.9667,
+    "id": "GHCND:CA007054680"
+  },
+  {
+    "longitude": -64.4,
+    "latitude": 49.0167,
+    "id": "GHCND:CA007056563"
+  },
+  {
+    "longitude": -66.8333,
+    "latitude": 48.9167,
+    "id": "GHCND:CA007057645"
+  },
+  {
+    "longitude": -71.0833,
+    "latitude": 48.4167,
+    "id": "GHCND:CA007061440"
+  },
+  {
+    "longitude": -72.55,
+    "latitude": 48.85,
+    "id": "GHCND:CA007065639"
+  },
+  {
+    "longitude": -73.9333,
+    "latitude": 47.45,
+    "id": "GHCND:CA007070464"
+  },
+  {
+    "longitude": -76.4833,
+    "latitude": 46.9833,
+    "id": "GHCND:CA007083620"
+  },
+  {
+    "longitude": -78.95,
+    "latitude": 49.8,
+    "id": "GHCND:CA007090866"
+  },
+  {
+    "longitude": -79.2167,
+    "latitude": 48.7833,
+    "id": "GHCND:CA007094120"
+  },
+  {
+    "longitude": -77.6667,
+    "latitude": 53.55,
+    "id": "GHCND:CA00709A0J4"
+  },
+  {
+    "longitude": -72.9833,
+    "latitude": 57.9167,
+    "id": "GHCND:CA007116505"
+  },
+  {
+    "longitude": -67.4667,
+    "latitude": 45.8833,
+    "id": "GHCND:CA008100775"
+  },
+  {
+    "longitude": -64.95,
+    "latitude": 45.6,
+    "id": "GHCND:CA008101746"
+  },
+  {
+    "longitude": -64.6,
+    "latitude": 47.8333,
+    "id": "GHCND:CA008102335"
+  },
+  {
+    "longitude": -66.7333,
+    "latitude": 45.1,
+    "id": "GHCND:CA008103845"
+  },
+  {
+    "longitude": -65.95,
+    "latitude": 45.2167,
+    "id": "GHCND:CA008104924"
+  },
+  {
+    "longitude": -67.55,
+    "latitude": 46.1667,
+    "id": "GHCND:CA008105600"
+  },
+  {
+    "longitude": -65.25,
+    "latitude": 43.6667,
+    "id": "GHCND:CA008200577"
+  },
+  {
+    "longitude": -66.1,
+    "latitude": 43.8667,
+    "id": "GHCND:CA008201336"
+  },
+  {
+    "longitude": -60.9833,
+    "latitude": 45.35,
+    "id": "GHCND:CA008202318"
+  },
+  {
+    "longitude": -61.3833,
+    "latitude": 46.0667,
+    "id": "GHCND:CA008203249"
+  },
+  {
+    "longitude": -63.8667,
+    "latitude": 45.7333,
+    "id": "GHCND:CA008204200"
+  },
+  {
+    "longitude": -60,
+    "latitude": 43.9333,
+    "id": "GHCND:CA008204701"
+  },
+  {
+    "longitude": -64.1833,
+    "latitude": 45.1167,
+    "id": "GHCND:CA008205650"
+  },
+  {
+    "longitude": -64.1,
+    "latitude": 44.9833,
+    "id": "GHCND:CA008206410"
+  },
+  {
+    "longitude": -64.05,
+    "latitude": 46.8333,
+    "id": "GHCND:CA008300441"
+  },
+  {
+    "longitude": -56.05,
+    "latitude": 48.9833,
+    "id": "GHCND:CA008400300"
+  },
+  {
+    "longitude": -53.3167,
+    "latitude": 47.5833,
+    "id": "GHCND:CA008400QJK"
+  },
+  {
+    "longitude": -59.1833,
+    "latitude": 47.8333,
+    "id": "GHCND:CA008401524"
+  },
+  {
+    "longitude": -57.1833,
+    "latitude": 49.0833,
+    "id": "GHCND:CA008402053"
+  },
+  {
+    "longitude": -53.55,
+    "latitude": 47.3167,
+    "id": "GHCND:CA008402590"
+  },
+  {
+    "longitude": -55.0167,
+    "latitude": 47.3,
+    "id": "GHCND:CA008403083"
+  },
+  {
+    "longitude": -53.5833,
+    "latitude": 46.6333,
+    "id": "GHCND:CA008403617"
+  },
+  {
+    "longitude": -53.3667,
+    "latitude": 46.7667,
+    "id": "GHCND:CA008403971"
+  },
+  {
+    "longitude": -55.6,
+    "latitude": 52.25,
+    "id": "GHCND:CA008500398"
+  },
+  {
+    "longitude": -62.5833,
+    "latitude": 58.3333,
+    "id": "GHCND:CA008503249"
+  },
+  {
+    "longitude": 80.767,
+    "latitude": 6.967,
+    "id": "GHCND:CE000434730"
+  },
+  {
+    "longitude": 121.917,
+    "latitude": 48.767,
+    "id": "GHCND:CHM00050632"
+  },
+  {
+    "longitude": 79.933,
+    "latitude": 37.133,
+    "id": "GHCND:CHM00051828"
+  },
+  {
+    "longitude": 105.75,
+    "latitude": 39.783,
+    "id": "GHCND:CHM00053502"
+  },
+  {
+    "longitude": 123.783,
+    "latitude": 41.317,
+    "id": "GHCND:CHM00054346"
+  },
+  {
+    "longitude": 98.217,
+    "latitude": 34.917,
+    "id": "GHCND:CHM00056033"
+  },
+  {
+    "longitude": 111.033,
+    "latitude": 34.05,
+    "id": "GHCND:CHM00057067"
+  },
+  {
+    "longitude": 117.367,
+    "latitude": 32.95,
+    "id": "GHCND:CHM00058221"
+  },
+  {
+    "longitude": 108.217,
+    "latitude": 22.633,
+    "id": "GHCND:CHM00059431"
+  },
+  {
+    "longitude": -72.106,
+    "latitude": -45.594,
+    "id": "GHCND:CIM00085864"
+  },
+  {
+    "longitude": -73.614,
+    "latitude": 4.168,
+    "id": "GHCND:COM00080234"
+  },
+  {
+    "longitude": 23.27,
+    "latitude": 6.5,
+    "id": "GHCND:CT000004661"
+  },
+  {
+    "longitude": -6.77,
+    "latitude": 62.02,
+    "id": "GHCND:DAM00006011"
+  },
+  {
+    "longitude": 31.25,
+    "latitude": 30.05,
+    "id": "GHCND:EGE00147728"
+  },
+  {
+    "longitude": 24.033,
+    "latitude": 59.383,
+    "id": "GHCND:EN000026029"
+  },
+  {
+    "longitude": 25.4092,
+    "latitude": 58.8083,
+    "id": "GHCND:ENE00175079"
+  },
+  {
+    "longitude": 12.683,
+    "latitude": 49.667,
+    "id": "GHCND:EZM00011423"
+  },
+  {
+    "longitude": 22.9517,
+    "latitude": 59.7733,
+    "id": "GHCND:FIE00141925"
+  },
+  {
+    "longitude": 24.3525,
+    "latitude": 59.92,
+    "id": "GHCND:FIE00142190"
+  },
+  {
+    "longitude": 21.7967,
+    "latitude": 61.4656,
+    "id": "GHCND:FIE00142411"
+  },
+  {
+    "longitude": 24.4944,
+    "latitude": 60.9992,
+    "id": "GHCND:FIE00142851"
+  },
+  {
+    "longitude": 28.2117,
+    "latitude": 61.0569,
+    "id": "GHCND:FIE00143276"
+  },
+  {
+    "longitude": 25.33,
+    "latitude": 61.8856,
+    "id": "GHCND:FIE00143816"
+  },
+  {
+    "longitude": 23.0469,
+    "latitude": 63.1203,
+    "id": "GHCND:FIE00144407"
+  },
+  {
+    "longitude": 30.0167,
+    "latitude": 63.3,
+    "id": "GHCND:FIE00144977"
+  },
+  {
+    "longitude": 28.5831,
+    "latitude": 64.3667,
+    "id": "GHCND:FIE00145457"
+  },
+  {
+    "longitude": 25.1667,
+    "latitude": 66.3167,
+    "id": "GHCND:FIE00145917"
+  },
+  {
+    "longitude": 29.3667,
+    "latitude": 67.3667,
+    "id": "GHCND:FIE00146408"
+  },
+  {
+    "longitude": 27.1228,
+    "latitude": 69.0669,
+    "id": "GHCND:FIE00146693"
+  },
+  {
+    "longitude": 162.9533,
+    "latitude": 5.3544,
+    "id": "GHCND:FMC00914395"
+  },
+  {
+    "longitude": -144.333,
+    "latitude": -27.617,
+    "id": "GHCND:FP000091958"
+  },
+  {
+    "longitude": 6.1256,
+    "latitude": 49.0731,
+    "id": "GHCND:FRE00104949"
+  },
+  {
+    "longitude": 5.955,
+    "latitude": 48.583,
+    "id": "GHCND:FRM00007181"
+  },
+  {
+    "longitude": 5.86667,
+    "latitude": 49.03333,
+    "id": "GHCND:FRW00034063"
+  },
+  {
+    "longitude": 40.35,
+    "latitude": 43.2,
+    "id": "GHCND:GG000037178"
+  },
+  {
+    "longitude": 42.983,
+    "latitude": 41.633,
+    "id": "GHCND:GG000037514"
+  },
+  {
+    "longitude": -2.333,
+    "latitude": 6.2,
+    "id": "GHCND:GHM00065445"
+  },
+  {
+    "longitude": -46.05,
+    "latitude": 60.7167,
+    "id": "GHCND:GLE00147301"
+  },
+  {
+    "longitude": -61.13333,
+    "latitude": 77.16667,
+    "id": "GHCND:GLW00017615"
+  },
+  {
+    "longitude": 12.0819,
+    "latitude": 54.1817,
+    "id": "GHCND:GME00102212"
+  },
+  {
+    "longitude": 9.2008,
+    "latitude": 48.8292,
+    "id": "GHCND:GME00115771"
+  },
+  {
+    "longitude": 7.45,
+    "latitude": 54.1667,
+    "id": "GHCND:GME00121282"
+  },
+  {
+    "longitude": 9.0114,
+    "latitude": 54.0708,
+    "id": "GHCND:GME00121666"
+  },
+  {
+    "longitude": 11.15,
+    "latitude": 54.6,
+    "id": "GHCND:GME00122066"
+  },
+  {
+    "longitude": 7.8594,
+    "latitude": 48.0139,
+    "id": "GHCND:GME00122470"
+  },
+  {
+    "longitude": 13.6856,
+    "latitude": 53.8431,
+    "id": "GHCND:GME00122878"
+  },
+  {
+    "longitude": 10.1817,
+    "latitude": 53.4714,
+    "id": "GHCND:GME00123286"
+  },
+  {
+    "longitude": 7.3364,
+    "latitude": 49.7681,
+    "id": "GHCND:GME00123682"
+  },
+  {
+    "longitude": 7.4844,
+    "latitude": 50.5664,
+    "id": "GHCND:GME00124102"
+  },
+  {
+    "longitude": 10.1792,
+    "latitude": 49.7369,
+    "id": "GHCND:GME00124534"
+  },
+  {
+    "longitude": 10.0167,
+    "latitude": 51.9617,
+    "id": "GHCND:GME00124942"
+  },
+  {
+    "longitude": 9.8889,
+    "latitude": 47.5989,
+    "id": "GHCND:GME00125386"
+  },
+  {
+    "longitude": 11.5208,
+    "latitude": 49.9678,
+    "id": "GHCND:GME00125806"
+  },
+  {
+    "longitude": 10.3967,
+    "latitude": 51.2089,
+    "id": "GHCND:GME00126238"
+  },
+  {
+    "longitude": 8.1831,
+    "latitude": 49.3489,
+    "id": "GHCND:GME00126646"
+  },
+  {
+    "longitude": 8.1817,
+    "latitude": 53.1781,
+    "id": "GHCND:GME00127054"
+  },
+  {
+    "longitude": 13.4783,
+    "latitude": 54.3656,
+    "id": "GHCND:GME00127462"
+  },
+  {
+    "longitude": 9.5167,
+    "latitude": 50.3831,
+    "id": "GHCND:GME00127858"
+  },
+  {
+    "longitude": 8.6028,
+    "latitude": 54.3294,
+    "id": "GHCND:GME00128218"
+  },
+  {
+    "longitude": 10.4325,
+    "latitude": 51.8381,
+    "id": "GHCND:GME00128578"
+  },
+  {
+    "longitude": 9.9858,
+    "latitude": 51.2814,
+    "id": "GHCND:GME00128974"
+  },
+  {
+    "longitude": 13.4831,
+    "latitude": 50.6208,
+    "id": "GHCND:GME00131998"
+  },
+  {
+    "longitude": 9.0878,
+    "latitude": 52.2817,
+    "id": "GHCND:GME00132382"
+  },
+  {
+    "longitude": 10.6742,
+    "latitude": 49.4169,
+    "id": "GHCND:GME00132778"
+  },
+  {
+    "longitude": 7.317,
+    "latitude": 52.517,
+    "id": "GHCND:GMM00010305"
+  },
+  {
+    "longitude": 7.2,
+    "latitude": 50.733,
+    "id": "GHCND:GMM00010519"
+  },
+  {
+    "longitude": 8.9925,
+    "latitude": 48.1844,
+    "id": "GHCND:GMM00010827"
+  },
+  {
+    "longitude": 9.65,
+    "latitude": 50.55,
+    "id": "GHCND:GMW00035053"
+  },
+  {
+    "longitude": 22.4,
+    "latitude": 38.9,
+    "id": "GHCND:GRE00105244"
+  },
+  {
+    "longitude": -58.254119,
+    "latitude": 6.498553,
+    "id": "GHCND:GYW00010502"
+  },
+  {
+    "longitude": 20.1,
+    "latitude": 46.25,
+    "id": "GHCND:HUM00012982"
+  },
+  {
+    "longitude": 96.95,
+    "latitude": 5.227,
+    "id": "GHCND:IDM00096009"
+  },
+  {
+    "longitude": 114.763,
+    "latitude": -3.442,
+    "id": "GHCND:IDM00096685"
+  },
+  {
+    "longitude": 117.412,
+    "latitude": -8.489,
+    "id": "GHCND:IDM00097260"
+  },
+  {
+    "longitude": 80.8,
+    "latitude": 16.533,
+    "id": "GHCND:IN001111600"
+  },
+  {
+    "longitude": 73.25,
+    "latitude": 22.3,
+    "id": "GHCND:IN005040100"
+  },
+  {
+    "longitude": 75.783,
+    "latitude": 11.25,
+    "id": "GHCND:IN010050700"
+  },
+  {
+    "longitude": 80.2,
+    "latitude": 21.467,
+    "id": "GHCND:IN012051400"
+  },
+  {
+    "longitude": 71.383,
+    "latitude": 25.75,
+    "id": "GHCND:IN019040100"
+  },
+  {
+    "longitude": 77.117,
+    "latitude": 28.567,
+    "id": "GHCND:IN022023000"
+  },
+  {
+    "longitude": 73,
+    "latitude": 8.3,
+    "id": "GHCND:IN025010100"
+  },
+  {
+    "longitude": 51.862,
+    "latitude": 32.751,
+    "id": "GHCND:IRM00040800"
+  },
+  {
+    "longitude": 12.2167,
+    "latitude": 42.0828,
+    "id": "GHCND:IT000162240"
+  },
+  {
+    "longitude": 13.183,
+    "latitude": 38.7,
+    "id": "GHCND:ITM00016400"
+  },
+  {
+    "longitude": -3.926,
+    "latitude": 5.261,
+    "id": "GHCND:IVM00065578"
+  },
+  {
+    "longitude": 141.217,
+    "latitude": 41.283,
+    "id": "GHCND:JA000047576"
+  },
+  {
+    "longitude": 136.767,
+    "latitude": 35.4,
+    "id": "GHCND:JA000047632"
+  },
+  {
+    "longitude": 133.333,
+    "latitude": 35.433,
+    "id": "GHCND:JA000047744"
+  },
+  {
+    "longitude": 131.617,
+    "latitude": 33.233,
+    "id": "GHCND:JA000047815"
+  },
+  {
+    "longitude": 126.8,
+    "latitude": 26.333,
+    "id": "GHCND:JA000047929"
+  },
+  {
+    "longitude": 139.779694,
+    "latitude": 35.552258,
+    "id": "GHCND:JAW00043311"
+  },
+  {
+    "longitude": 42.717,
+    "latitude": -17.05,
+    "id": "GHCND:JUM00061970"
+  },
+  {
+    "longitude": 128.167,
+    "latitude": 41.4,
+    "id": "GHCND:KNM00047016"
+  },
+  {
+    "longitude": 128.6,
+    "latitude": 35.83333,
+    "id": "GHCND:KSW00043211"
+  },
+  {
+    "longitude": 47.966,
+    "latitude": 29.222,
+    "id": "GHCND:KU000405820"
+  },
+  {
+    "longitude": 49.6,
+    "latitude": 48.95,
+    "id": "GHCND:KZ000034499"
+  },
+  {
+    "longitude": 58.15,
+    "latitude": 48.817,
+    "id": "GHCND:KZ000035437"
+  },
+  {
+    "longitude": 62.117,
+    "latitude": 45.767,
+    "id": "GHCND:KZ000035849"
+  },
+  {
+    "longitude": 80.9331,
+    "latitude": 46.1667,
+    "id": "GHCND:KZ000036729"
+  },
+  {
+    "longitude": 68.9,
+    "latitude": 43.55,
+    "id": "GHCND:KZ000038196"
+  },
+  {
+    "longitude": 105.78333,
+    "latitude": 15.13333,
+    "id": "GHCND:LAW00041071"
+  },
+  {
+    "longitude": 25.133,
+    "latitude": 56.65,
+    "id": "GHCND:LG000026435"
+  },
+  {
+    "longitude": 17.833,
+    "latitude": 48.617,
+    "id": "GHCND:LOM00011826"
+  },
+  {
+    "longitude": 10.143,
+    "latitude": 25.146,
+    "id": "GHCND:LYM00062212"
+  },
+  {
+    "longitude": 28.7,
+    "latitude": 48.033,
+    "id": "GHCND:MD000033679"
+  },
+  {
+    "longitude": 91.467,
+    "latitude": 46.117,
+    "id": "GHCND:MGM00044265"
+  },
+  {
+    "longitude": 19.283,
+    "latitude": 42.433,
+    "id": "GHCND:MJM00013463"
+  },
+  {
+    "longitude": -1.93,
+    "latitude": 34.78,
+    "id": "GHCND:MOE00147755"
+  },
+  {
+    "longitude": -15.82,
+    "latitude": 16.5,
+    "id": "GHCND:MR000001489"
+  },
+  {
+    "longitude": 59.483,
+    "latitude": 22.533,
+    "id": "GHCND:MUM00041268"
+  },
+  {
+    "longitude": -101.017,
+    "latitude": 25.367,
+    "id": "GHCND:MXM00076390"
+  },
+  {
+    "longitude": -103.577,
+    "latitude": 19.277,
+    "id": "GHCND:MXM00076658"
+  },
+  {
+    "longitude": -102.3667,
+    "latitude": 21.7667,
+    "id": "GHCND:MXN00001005"
+  },
+  {
+    "longitude": -102.3,
+    "latitude": 21.8167,
+    "id": "GHCND:MXN00001036"
+  },
+  {
+    "longitude": -102.05,
+    "latitude": 21.9667,
+    "id": "GHCND:MXN00001099"
+  },
+  {
+    "longitude": -115.1667,
+    "latitude": 28.1333,
+    "id": "GHCND:MXN00002027"
+  },
+  {
+    "longitude": -115.2833,
+    "latitude": 31.0667,
+    "id": "GHCND:MXN00002059"
+  },
+  {
+    "longitude": -115.1667,
+    "latitude": 30.7667,
+    "id": "GHCND:MXN00002099"
+  },
+  {
+    "longitude": -114.8667,
+    "latitude": 32.6167,
+    "id": "GHCND:MXN00002145"
+  },
+  {
+    "longitude": -110.65,
+    "latitude": 23.85,
+    "id": "GHCND:MXN00003015"
+  },
+  {
+    "longitude": -109.8333,
+    "latitude": 23.7333,
+    "id": "GHCND:MXN00003050"
+  },
+  {
+    "longitude": -110.15,
+    "latitude": 23.35,
+    "id": "GHCND:MXN00003097"
+  },
+  {
+    "longitude": -111.2833,
+    "latitude": 25.2667,
+    "id": "GHCND:MXN00003130"
+  },
+  {
+    "longitude": -110.2167,
+    "latitude": 23.5667,
+    "id": "GHCND:MXN00003175"
+  },
+  {
+    "longitude": -89.6667,
+    "latitude": 22.3833,
+    "id": "GHCND:MXN00004016"
+  },
+  {
+    "longitude": -91.0833,
+    "latitude": 18.5167,
+    "id": "GHCND:MXN00004057"
+  },
+  {
+    "longitude": -102.6167,
+    "latitude": 25.1,
+    "id": "GHCND:MXN00005004"
+  },
+  {
+    "longitude": -103.4167,
+    "latitude": 25.5167,
+    "id": "GHCND:MXN00005040"
+  },
+  {
+    "longitude": -102.9333,
+    "latitude": 25.4833,
+    "id": "GHCND:MXN00005139"
+  },
+  {
+    "longitude": -101.05,
+    "latitude": 25.6167,
+    "id": "GHCND:MXN00005173"
+  },
+  {
+    "longitude": -103.9167,
+    "latitude": 19.1667,
+    "id": "GHCND:MXN00006020"
+  },
+  {
+    "longitude": -104.1167,
+    "latitude": 19.1833,
+    "id": "GHCND:MXN00006070"
+  },
+  {
+    "longitude": -92.6833,
+    "latitude": 16.7833,
+    "id": "GHCND:MXN00007030"
+  },
+  {
+    "longitude": -92.7333,
+    "latitude": 15.7833,
+    "id": "GHCND:MXN00007063"
+  },
+  {
+    "longitude": -91.7833,
+    "latitude": 16.3167,
+    "id": "GHCND:MXN00007096"
+  },
+  {
+    "longitude": -91.7833,
+    "latitude": 16.1167,
+    "id": "GHCND:MXN00007127"
+  },
+  {
+    "longitude": -92.35,
+    "latitude": 16.2333,
+    "id": "GHCND:MXN00007161"
+  },
+  {
+    "longitude": -92.25,
+    "latitude": 14.9,
+    "id": "GHCND:MXN00007200"
+  },
+  {
+    "longitude": -93.2167,
+    "latitude": 16.8667,
+    "id": "GHCND:MXN00007319"
+  },
+  {
+    "longitude": -92.6833,
+    "latitude": 16.3833,
+    "id": "GHCND:MXN00007358"
+  },
+  {
+    "longitude": -107.1667,
+    "latitude": 26.45,
+    "id": "GHCND:MXN00008003"
+  },
+  {
+    "longitude": -104.9,
+    "latitude": 29.4333,
+    "id": "GHCND:MXN00008039"
+  },
+  {
+    "longitude": -105.7167,
+    "latitude": 26.9,
+    "id": "GHCND:MXN00008078"
+  },
+  {
+    "longitude": -106.4167,
+    "latitude": 29.3667,
+    "id": "GHCND:MXN00008111"
+  },
+  {
+    "longitude": -105.9833,
+    "latitude": 28.7,
+    "id": "GHCND:MXN00008147"
+  },
+  {
+    "longitude": -105.0333,
+    "latitude": 27,
+    "id": "GHCND:MXN00008194"
+  },
+  {
+    "longitude": -107.4,
+    "latitude": 28.5167,
+    "id": "GHCND:MXN00008246"
+  },
+  {
+    "longitude": -105.6167,
+    "latitude": 28.4167,
+    "id": "GHCND:MXN00008300"
+  },
+  {
+    "longitude": -107.7333,
+    "latitude": 27.0167,
+    "id": "GHCND:MXN00008341"
+  },
+  {
+    "longitude": -99.0833,
+    "latitude": 19.4667,
+    "id": "GHCND:MXN00009029"
+  },
+  {
+    "longitude": -103.6833,
+    "latitude": 24.6333,
+    "id": "GHCND:MXN00010001"
+  },
+  {
+    "longitude": -105.5833,
+    "latitude": 23.7167,
+    "id": "GHCND:MXN00010036"
+  },
+  {
+    "longitude": -104.3833,
+    "latitude": 24.7833,
+    "id": "GHCND:MXN00010068"
+  },
+  {
+    "longitude": -104.9167,
+    "latitude": 24.8,
+    "id": "GHCND:MXN00010102"
+  },
+  {
+    "longitude": -103.5,
+    "latitude": 25.6167,
+    "id": "GHCND:MXN00010145"
+  },
+  {
+    "longitude": -101.2167,
+    "latitude": 20.9833,
+    "id": "GHCND:MXN00011008"
+  },
+  {
+    "longitude": -101.1333,
+    "latitude": 20.6667,
+    "id": "GHCND:MXN00011041"
+  },
+  {
+    "longitude": -101.4167,
+    "latitude": 20.9333,
+    "id": "GHCND:MXN00011071"
+  },
+  {
+    "longitude": -100.9333,
+    "latitude": 20.0333,
+    "id": "GHCND:MXN00011114"
+  },
+  {
+    "longitude": -100.7167,
+    "latitude": 20.1,
+    "id": "GHCND:MXN00011149"
+  },
+  {
+    "longitude": -98.5833,
+    "latitude": 16.7167,
+    "id": "GHCND:MXN00012013"
+  },
+  {
+    "longitude": -99.3333,
+    "latitude": 18.3,
+    "id": "GHCND:MXN00012046"
+  },
+  {
+    "longitude": -100.6667,
+    "latitude": 18.1,
+    "id": "GHCND:MXN00012077"
+  },
+  {
+    "longitude": -99.1667,
+    "latitude": 17.6,
+    "id": "GHCND:MXN00012110"
+  },
+  {
+    "longitude": -99.9,
+    "latitude": 16.85,
+    "id": "GHCND:MXN00012142"
+  },
+  {
+    "longitude": -98.7167,
+    "latitude": 17.5667,
+    "id": "GHCND:MXN00012178"
+  },
+  {
+    "longitude": -101.5833,
+    "latitude": 17.65,
+    "id": "GHCND:MXN00012218"
+  },
+  {
+    "longitude": -98.6667,
+    "latitude": 19.6333,
+    "id": "GHCND:MXN00013007"
+  },
+  {
+    "longitude": -99.4167,
+    "latitude": 20.8167,
+    "id": "GHCND:MXN00013044"
+  },
+  {
+    "longitude": -99.3667,
+    "latitude": 20.4333,
+    "id": "GHCND:MXN00013081"
+  },
+  {
+    "longitude": -98.8833,
+    "latitude": 20.1,
+    "id": "GHCND:MXN00013117"
+  },
+  {
+    "longitude": -99.4,
+    "latitude": 20.7167,
+    "id": "GHCND:MXN00013158"
+  },
+  {
+    "longitude": -103.35,
+    "latitude": 22.05,
+    "id": "GHCND:MXN00014026"
+  },
+  {
+    "longitude": -103.1667,
+    "latitude": 20.5167,
+    "id": "GHCND:MXN00014057"
+  },
+  {
+    "longitude": -102.7333,
+    "latitude": 20.5667,
+    "id": "GHCND:MXN00014090"
+  },
+  {
+    "longitude": -102.8333,
+    "latitude": 19.8833,
+    "id": "GHCND:MXN00014124"
+  },
+  {
+    "longitude": -103.1833,
+    "latitude": 20.15,
+    "id": "GHCND:MXN00014156"
+  },
+  {
+    "longitude": -102.8833,
+    "latitude": 21.1833,
+    "id": "GHCND:MXN00014192"
+  },
+  {
+    "longitude": -103.75,
+    "latitude": 21.8667,
+    "id": "GHCND:MXN00014318"
+  },
+  {
+    "longitude": -103.4333,
+    "latitude": 20.4167,
+    "id": "GHCND:MXN00014356"
+  },
+  {
+    "longitude": -99.75,
+    "latitude": 18.9167,
+    "id": "GHCND:MXN00015016"
+  },
+  {
+    "longitude": -99.5,
+    "latitude": 19.2833,
+    "id": "GHCND:MXN00015049"
+  },
+  {
+    "longitude": -98.7667,
+    "latitude": 19.0167,
+    "id": "GHCND:MXN00015080"
+  },
+  {
+    "longitude": -99.8333,
+    "latitude": 20.1,
+    "id": "GHCND:MXN00015110"
+  },
+  {
+    "longitude": -100.0333,
+    "latitude": 19.8833,
+    "id": "GHCND:MXN00015146"
+  },
+  {
+    "longitude": -99.95,
+    "latitude": 20.1833,
+    "id": "GHCND:MXN00015190"
+  },
+  {
+    "longitude": -99.4,
+    "latitude": 19.0833,
+    "id": "GHCND:MXN00015228"
+  },
+  {
+    "longitude": -98.9,
+    "latitude": 19.6333,
+    "id": "GHCND:MXN00015263"
+  },
+  {
+    "longitude": -99.55,
+    "latitude": 19.1167,
+    "id": "GHCND:MXN00015295"
+  },
+  {
+    "longitude": -99.6667,
+    "latitude": 19.9167,
+    "id": "GHCND:MXN00015333"
+  },
+  {
+    "longitude": -99.6,
+    "latitude": 19.1333,
+    "id": "GHCND:MXN00015373"
+  },
+  {
+    "longitude": -101.2667,
+    "latitude": 19.6167,
+    "id": "GHCND:MXN00016022"
+  },
+  {
+    "longitude": -102.0667,
+    "latitude": 19.3833,
+    "id": "GHCND:MXN00016056"
+  },
+  {
+    "longitude": -100.6,
+    "latitude": 19.5667,
+    "id": "GHCND:MXN00016092"
+  },
+  {
+    "longitude": -105.2167,
+    "latitude": 20.7333,
+    "id": "GHCND:MXN00018030"
+  },
+  {
+    "longitude": -104.25,
+    "latitude": 21.1,
+    "id": "GHCND:MXN00018075"
+  },
+  {
+    "longitude": -100.05,
+    "latitude": 26.4833,
+    "id": "GHCND:MXN00019021"
+  },
+  {
+    "longitude": -100.3667,
+    "latitude": 27.4167,
+    "id": "GHCND:MXN00019055"
+  },
+  {
+    "longitude": -99.85,
+    "latitude": 24.2667,
+    "id": "GHCND:MXN00019093"
+  },
+  {
+    "longitude": -98.75,
+    "latitude": 25.3667,
+    "id": "GHCND:MXN00019130"
+  },
+  {
+    "longitude": -99.6167,
+    "latitude": 25.8167,
+    "id": "GHCND:MXN00019169"
+  },
+  {
+    "longitude": -97.0167,
+    "latitude": 18.1333,
+    "id": "GHCND:MXN00020011"
+  },
+  {
+    "longitude": -96.2,
+    "latitude": 17.8667,
+    "id": "GHCND:MXN00020042"
+  },
+  {
+    "longitude": -97.6667,
+    "latitude": 16.6,
+    "id": "GHCND:MXN00020077"
+  },
+  {
+    "longitude": -95.8167,
+    "latitude": 17.4167,
+    "id": "GHCND:MXN00020113"
+  },
+  {
+    "longitude": -98.2167,
+    "latitude": 17.6667,
+    "id": "GHCND:MXN00020146"
+  },
+  {
+    "longitude": -97.5667,
+    "latitude": 17.0167,
+    "id": "GHCND:MXN00020178"
+  },
+  {
+    "longitude": -97.5667,
+    "latitude": 16.0167,
+    "id": "GHCND:MXN00020223"
+  },
+  {
+    "longitude": -96.5,
+    "latitude": 17.5667,
+    "id": "GHCND:MXN00020273"
+  },
+  {
+    "longitude": -97.85,
+    "latitude": 17.2167,
+    "id": "GHCND:MXN00020307"
+  },
+  {
+    "longitude": -95.2833,
+    "latitude": 16.1167,
+    "id": "GHCND:MXN00020340"
+  },
+  {
+    "longitude": -98.35,
+    "latitude": 16.4667,
+    "id": "GHCND:MXN00020378"
+  },
+  {
+    "longitude": -98.3833,
+    "latitude": 18.1667,
+    "id": "GHCND:MXN00021015"
+  },
+  {
+    "longitude": -98.7167,
+    "latitude": 18.0333,
+    "id": "GHCND:MXN00021048"
+  },
+  {
+    "longitude": -97.1333,
+    "latitude": 18.5167,
+    "id": "GHCND:MXN00021084"
+  },
+  {
+    "longitude": -98.5333,
+    "latitude": 18.7667,
+    "id": "GHCND:MXN00021123"
+  },
+  {
+    "longitude": -97.3667,
+    "latitude": 19.8,
+    "id": "GHCND:MXN00021162"
+  },
+  {
+    "longitude": -98.6167,
+    "latitude": 18.9,
+    "id": "GHCND:MXN00021194"
+  },
+  {
+    "longitude": -98.1667,
+    "latitude": 18.6,
+    "id": "GHCND:MXN00021230"
+  },
+  {
+    "longitude": -99.2,
+    "latitude": 21.3167,
+    "id": "GHCND:MXN00022024"
+  },
+  {
+    "longitude": -100.3,
+    "latitude": 20.4833,
+    "id": "GHCND:MXN00022058"
+  },
+  {
+    "longitude": -87.4167,
+    "latitude": 21.3333,
+    "id": "GHCND:MXN00023023"
+  },
+  {
+    "longitude": -87.0667,
+    "latitude": 20.6333,
+    "id": "GHCND:MXN00023163"
+  },
+  {
+    "longitude": -100.45,
+    "latitude": 22.9167,
+    "id": "GHCND:MXN00024022"
+  },
+  {
+    "longitude": -98.55,
+    "latitude": 21.5,
+    "id": "GHCND:MXN00024053"
+  },
+  {
+    "longitude": -98.65,
+    "latitude": 21.6167,
+    "id": "GHCND:MXN00024085"
+  },
+  {
+    "longitude": -99.0333,
+    "latitude": 22.0167,
+    "id": "GHCND:MXN00024123"
+  },
+  {
+    "longitude": -99.0333,
+    "latitude": 22.35,
+    "id": "GHCND:MXN00024156"
+  },
+  {
+    "longitude": -101.2,
+    "latitude": 23.2333,
+    "id": "GHCND:MXN00024189"
+  },
+  {
+    "longitude": -109.0333,
+    "latitude": 26.2667,
+    "id": "GHCND:MXN00025022"
+  },
+  {
+    "longitude": -108.5833,
+    "latitude": 26.4667,
+    "id": "GHCND:MXN00025055"
+  },
+  {
+    "longitude": -106.95,
+    "latitude": 24.4833,
+    "id": "GHCND:MXN00025087"
+  },
+  {
+    "longitude": -106.8833,
+    "latitude": 23.9167,
+    "id": "GHCND:MXN00025132"
+  },
+  {
+    "longitude": -108.5833,
+    "latitude": 26.35,
+    "id": "GHCND:MXN00025174"
+  },
+  {
+    "longitude": -110.95,
+    "latitude": 29.6833,
+    "id": "GHCND:MXN00026016"
+  },
+  {
+    "longitude": -108.7333,
+    "latitude": 28.9333,
+    "id": "GHCND:MXN00026049"
+  },
+  {
+    "longitude": -109.7333,
+    "latitude": 28.5833,
+    "id": "GHCND:MXN00026083"
+  },
+  {
+    "longitude": -110.9833,
+    "latitude": 29.6833,
+    "id": "GHCND:MXN00026113"
+  },
+  {
+    "longitude": -109.5667,
+    "latitude": 30.9,
+    "id": "GHCND:MXN00026157"
+  },
+  {
+    "longitude": -111.35,
+    "latitude": 28.9833,
+    "id": "GHCND:MXN00026195"
+  },
+  {
+    "longitude": -109.4333,
+    "latitude": 28.15,
+    "id": "GHCND:MXN00026242"
+  },
+  {
+    "longitude": -109.5833,
+    "latitude": 30.65,
+    "id": "GHCND:MXN00026276"
+  },
+  {
+    "longitude": -110.9,
+    "latitude": 29.3667,
+    "id": "GHCND:MXN00026308"
+  },
+  {
+    "longitude": -92.6,
+    "latitude": 17.75,
+    "id": "GHCND:MXN00027031"
+  },
+  {
+    "longitude": -92.9167,
+    "latitude": 17.5167,
+    "id": "GHCND:MXN00027068"
+  },
+  {
+    "longitude": -98.8333,
+    "latitude": 23.25,
+    "id": "GHCND:MXN00028015"
+  },
+  {
+    "longitude": -97.9667,
+    "latitude": 25.35,
+    "id": "GHCND:MXN00028048"
+  },
+  {
+    "longitude": -99.0833,
+    "latitude": 23.0167,
+    "id": "GHCND:MXN00028083"
+  },
+  {
+    "longitude": -99.4833,
+    "latitude": 24.4667,
+    "id": "GHCND:MXN00028118"
+  },
+  {
+    "longitude": -99.8833,
+    "latitude": 23.3667,
+    "id": "GHCND:MXN00028176"
+  },
+  {
+    "longitude": -98.35,
+    "latitude": 24.25,
+    "id": "GHCND:MXN00028215"
+  },
+  {
+    "longitude": -98.5333,
+    "latitude": 19.4833,
+    "id": "GHCND:MXN00029016"
+  },
+  {
+    "longitude": -98.2667,
+    "latitude": 19.3,
+    "id": "GHCND:MXN00029061"
+  },
+  {
+    "longitude": -96.0833,
+    "latitude": 18.1833,
+    "id": "GHCND:MXN00030025"
+  },
+  {
+    "longitude": -96.6667,
+    "latitude": 19.5167,
+    "id": "GHCND:MXN00030057"
+  },
+  {
+    "longitude": -96.0167,
+    "latitude": 18.55,
+    "id": "GHCND:MXN00030088"
+  },
+  {
+    "longitude": -95.4333,
+    "latitude": 17.6333,
+    "id": "GHCND:MXN00030118"
+  },
+  {
+    "longitude": -95.7333,
+    "latitude": 18.5333,
+    "id": "GHCND:MXN00030150"
+  },
+  {
+    "longitude": -98.1333,
+    "latitude": 21.0333,
+    "id": "GHCND:MXN00030180"
+  },
+  {
+    "longitude": -97.2167,
+    "latitude": 19.9167,
+    "id": "GHCND:MXN00030219"
+  },
+  {
+    "longitude": -96.7167,
+    "latitude": 18.7833,
+    "id": "GHCND:MXN00030272"
+  },
+  {
+    "longitude": -97.6333,
+    "latitude": 20.7333,
+    "id": "GHCND:MXN00030307"
+  },
+  {
+    "longitude": -97.0833,
+    "latitude": 20.05,
+    "id": "GHCND:MXN00030343"
+  },
+  {
+    "longitude": -98.3333,
+    "latitude": 20.75,
+    "id": "GHCND:MXN00030382"
+  },
+  {
+    "longitude": -88.2667,
+    "latitude": 21,
+    "id": "GHCND:MXN00031013"
+  },
+  {
+    "longitude": -87.8667,
+    "latitude": 21.4,
+    "id": "GHCND:MXN00031053"
+  },
+  {
+    "longitude": -89.2833,
+    "latitude": 19.85,
+    "id": "GHCND:MXN00031085"
+  },
+  {
+    "longitude": -103.1,
+    "latitude": 23.2667,
+    "id": "GHCND:MXN00032018"
+  },
+  {
+    "longitude": -102.8833,
+    "latitude": 24.3167,
+    "id": "GHCND:MXN00032049"
+  },
+  {
+    "longitude": -103.5,
+    "latitude": 24.2667,
+    "id": "GHCND:MXN00032089"
+  },
+  {
+    "longitude": -102.25,
+    "latitude": 22.4333,
+    "id": "GHCND:MXN00032122"
+  },
+  {
+    "longitude": -102.4833,
+    "latitude": 22.8167,
+    "id": "GHCND:MXN00032176"
+  },
+  {
+    "longitude": 35.233,
+    "latitude": -13.3,
+    "id": "GHCND:MZ000067217"
+  },
+  {
+    "longitude": 12.917,
+    "latitude": 18.683,
+    "id": "GHCND:NG000061017"
+  },
+  {
+    "longitude": 5.9417,
+    "latitude": 53.4917,
+    "id": "GHCND:NLE00113700"
+  },
+  {
+    "longitude": 5.8719,
+    "latitude": 52.055,
+    "id": "GHCND:NLE00152497"
+  },
+  {
+    "longitude": 14.6506,
+    "latitude": 68.1503,
+    "id": "GHCND:NOE00104443"
+  },
+  {
+    "longitude": 6.5392,
+    "latitude": 62.8594,
+    "id": "GHCND:NOE00109737"
+  },
+  {
+    "longitude": 5.0681,
+    "latitude": 59.9081,
+    "id": "GHCND:NOE00110725"
+  },
+  {
+    "longitude": 25.9781,
+    "latitude": 71.0106,
+    "id": "GHCND:NOE00133138"
+  },
+  {
+    "longitude": 9.0631,
+    "latitude": 61.1217,
+    "id": "GHCND:NOE00134214"
+  },
+  {
+    "longitude": 11.2028,
+    "latitude": 60.8028,
+    "id": "GHCND:NOE00156715"
+  },
+  {
+    "longitude": 177.983,
+    "latitude": -38.65,
+    "id": "GHCND:NZ000093292"
+  },
+  {
+    "longitude": -56.433,
+    "latitude": -25.767,
+    "id": "GHCND:PAM00086233"
+  },
+  {
+    "longitude": -76.22,
+    "latitude": -13.745,
+    "id": "GHCND:PEM00084691"
+  },
+  {
+    "longitude": 17.5331,
+    "latitude": 54.75,
+    "id": "GHCND:PL000012120"
+  },
+  {
+    "longitude": -7.966,
+    "latitude": 37.014,
+    "id": "GHCND:POM00008554"
+  },
+  {
+    "longitude": 143.2297,
+    "latitude": 73.18,
+    "id": "GHCND:RSM00021647"
+  },
+  {
+    "longitude": 33,
+    "latitude": 66.067,
+    "id": "GHCND:RSM00022318"
+  },
+  {
+    "longitude": 39.233,
+    "latitude": 63.117,
+    "id": "GHCND:RSM00022648"
+  },
+  {
+    "longitude": 34.783,
+    "latitude": 60.633,
+    "id": "GHCND:RSM00022925"
+  },
+  {
+    "longitude": 72.67,
+    "latitude": 65.47,
+    "id": "GHCND:RSM00023445"
+  },
+  {
+    "longitude": 64.217,
+    "latitude": 60.317,
+    "id": "GHCND:RSM00023929"
+  },
+  {
+    "longitude": 130.3,
+    "latitude": 64,
+    "id": "GHCND:RSM00024661"
+  },
+  {
+    "longitude": 164.17,
+    "latitude": 68.12,
+    "id": "GHCND:RSM00025138"
+  },
+  {
+    "longitude": 151.28,
+    "latitude": 59.57,
+    "id": "GHCND:RSM00025912"
+  },
+  {
+    "longitude": 28.9,
+    "latitude": 57,
+    "id": "GHCND:RSM00026359"
+  },
+  {
+    "longitude": 36.7,
+    "latitude": 57.8,
+    "id": "GHCND:RSM00027217"
+  },
+  {
+    "longitude": 38.683,
+    "latitude": 55.767,
+    "id": "GHCND:RSM00027523"
+  },
+  {
+    "longitude": 39.25,
+    "latitude": 53.7831,
+    "id": "GHCND:RSM00027823"
+  },
+  {
+    "longitude": 56.3,
+    "latitude": 58.0167,
+    "id": "GHCND:RSM00028224"
+  },
+  {
+    "longitude": 62.717,
+    "latitude": 56.85,
+    "id": "GHCND:RSM00028451"
+  },
+  {
+    "longitude": 64.433,
+    "latitude": 54.917,
+    "id": "GHCND:RSM00028659"
+  },
+  {
+    "longitude": 52.217,
+    "latitude": 52.817,
+    "id": "GHCND:RSM00028909"
+  },
+  {
+    "longitude": 95.217,
+    "latitude": 56.85,
+    "id": "GHCND:RSM00029481"
+  },
+  {
+    "longitude": 86.8,
+    "latitude": 55,
+    "id": "GHCND:RSM00029649"
+  },
+  {
+    "longitude": 91.7,
+    "latitude": 53.7167,
+    "id": "GHCND:RSM00029866"
+  },
+  {
+    "longitude": 121.48,
+    "latitude": 56.58,
+    "id": "GHCND:RSM00030385"
+  },
+  {
+    "longitude": 108.58,
+    "latitude": 53.85,
+    "id": "GHCND:RSM00030632"
+  },
+  {
+    "longitude": 117.7,
+    "latitude": 52.2331,
+    "id": "GHCND:RSM00030777"
+  },
+  {
+    "longitude": 118.583,
+    "latitude": 50.883,
+    "id": "GHCND:RSM00030972"
+  },
+  {
+    "longitude": 140.7164,
+    "latitude": 53.15,
+    "id": "GHCND:RSM00031369"
+  },
+  {
+    "longitude": 128,
+    "latitude": 49.6,
+    "id": "GHCND:RSM00031586"
+  },
+  {
+    "longitude": 134.267,
+    "latitude": 45.417,
+    "id": "GHCND:RSM00031884"
+  },
+  {
+    "longitude": 143.8,
+    "latitude": 50.4,
+    "id": "GHCND:RSM00032076"
+  },
+  {
+    "longitude": 156.3,
+    "latitude": 52.83,
+    "id": "GHCND:RSM00032562"
+  },
+  {
+    "longitude": 37.867,
+    "latitude": 50.75,
+    "id": "GHCND:RSM00034213"
+  },
+  {
+    "longitude": 43.15,
+    "latitude": 47.633,
+    "id": "GHCND:RSM00034655"
+  },
+  {
+    "longitude": 43.45,
+    "latitude": 45.1,
+    "id": "GHCND:RSM00034958"
+  },
+  {
+    "longitude": 95.12,
+    "latitude": 50.27,
+    "id": "GHCND:RSM00036307"
+  },
+  {
+    "longitude": 44.65,
+    "latitude": 43.05,
+    "id": "GHCND:RSM00037228"
+  },
+  {
+    "longitude": 49.817,
+    "latitude": 26.45,
+    "id": "GHCND:SAM00040417"
+  },
+  {
+    "longitude": 19.9,
+    "latitude": -33.8,
+    "id": "GHCND:SF000236780"
+  },
+  {
+    "longitude": 30.45,
+    "latitude": -30.733,
+    "id": "GHCND:SF001827940"
+  },
+  {
+    "longitude": 28.217,
+    "latitude": -25.917,
+    "id": "GHCND:SFM00068263"
+  },
+  {
+    "longitude": 14.2,
+    "latitude": 46.4,
+    "id": "GHCND:SIE00114966"
+  },
+  {
+    "longitude": -1.0081,
+    "latitude": 41.6617,
+    "id": "GHCND:SP000009434"
+  },
+  {
+    "longitude": 18.34,
+    "latitude": 57.66,
+    "id": "GHCND:SW000002590"
+  },
+  {
+    "longitude": 16.37,
+    "latitude": 58.73,
+    "id": "GHCND:SWE00135937"
+  },
+  {
+    "longitude": 17.44,
+    "latitude": 64.7097,
+    "id": "GHCND:SWE00137020"
+  },
+  {
+    "longitude": 14.13,
+    "latitude": 55.64,
+    "id": "GHCND:SWE00137548"
+  },
+  {
+    "longitude": 12.45,
+    "latitude": 56.3,
+    "id": "GHCND:SWE00137736"
+  },
+  {
+    "longitude": 18.1664,
+    "latitude": 56.92,
+    "id": "GHCND:SWE00137910"
+  },
+  {
+    "longitude": 18.92,
+    "latitude": 57.42,
+    "id": "GHCND:SWE00138088"
+  },
+  {
+    "longitude": 14.89,
+    "latitude": 57.82,
+    "id": "GHCND:SWE00138250"
+  },
+  {
+    "longitude": 16.01,
+    "latitude": 58.2,
+    "id": "GHCND:SWE00138394"
+  },
+  {
+    "longitude": 13.13,
+    "latitude": 58.53,
+    "id": "GHCND:SWE00138526"
+  },
+  {
+    "longitude": 15.28,
+    "latitude": 58.85,
+    "id": "GHCND:SWE00138650"
+  },
+  {
+    "longitude": 16.75,
+    "latitude": 59.24,
+    "id": "GHCND:SWE00138822"
+  },
+  {
+    "longitude": 14.19,
+    "latitude": 59.61,
+    "id": "GHCND:SWE00139038"
+  },
+  {
+    "longitude": 13.53,
+    "latitude": 59.96,
+    "id": "GHCND:SWE00139194"
+  },
+  {
+    "longitude": 18.38,
+    "latitude": 60.53,
+    "id": "GHCND:SWE00139396"
+  },
+  {
+    "longitude": 15.84,
+    "latitude": 61.38,
+    "id": "GHCND:SWE00139604"
+  },
+  {
+    "longitude": 17.27,
+    "latitude": 62.41,
+    "id": "GHCND:SWE00139796"
+  },
+  {
+    "longitude": 16.17,
+    "latitude": 63.16,
+    "id": "GHCND:SWE00139968"
+  },
+  {
+    "longitude": 20.28,
+    "latitude": 63.83,
+    "id": "GHCND:SWE00140186"
+  },
+  {
+    "longitude": 15.92,
+    "latitude": 64.5697,
+    "id": "GHCND:SWE00140354"
+  },
+  {
+    "longitude": 15.07,
+    "latitude": 65.33,
+    "id": "GHCND:SWE00140508"
+  },
+  {
+    "longitude": 17.17,
+    "latitude": 66.0997,
+    "id": "GHCND:SWE00140678"
+  },
+  {
+    "longitude": 20.67,
+    "latitude": 67.17,
+    "id": "GHCND:SWE00140836"
+  },
+  {
+    "longitude": 15.47,
+    "latitude": 56.84,
+    "id": "GHCND:SWE00158796"
+  },
+  {
+    "longitude": 7.5831,
+    "latitude": 47.5331,
+    "id": "GHCND:SZ000001940"
+  },
+  {
+    "longitude": 101.15,
+    "latitude": 16.433,
+    "id": "GHCND:TH000048379"
+  },
+  {
+    "longitude": 100.617,
+    "latitude": 13.667,
+    "id": "GHCND:THM00048453"
+  },
+  {
+    "longitude": 68.133,
+    "latitude": 37.317,
+    "id": "GHCND:TI000038937"
+  },
+  {
+    "longitude": 29.0831,
+    "latitude": 40.9667,
+    "id": "GHCND:TU000017062"
+  },
+  {
+    "longitude": 34.167,
+    "latitude": 39.15,
+    "id": "GHCND:TUM00017160"
+  },
+  {
+    "longitude": 57.767,
+    "latitude": 41.033,
+    "id": "GHCND:TX000038388"
+  },
+  {
+    "longitude": 66.017,
+    "latitude": 37.517,
+    "id": "GHCND:TX000038915"
+  },
+  {
+    "longitude": -4.4297,
+    "latitude": 55.85,
+    "id": "GHCND:UKE00105660"
+  },
+  {
+    "longitude": -3.7689,
+    "latitude": 56.7181,
+    "id": "GHCND:UKE00105885"
+  },
+  {
+    "longitude": 0.9481,
+    "latitude": 51.185,
+    "id": "GHCND:UKE00105917"
+  },
+  {
+    "longitude": -2.1131,
+    "latitude": 51.4306,
+    "id": "GHCND:UKE00156856"
+  },
+  {
+    "longitude": -1.58333,
+    "latitude": 51.75,
+    "id": "GHCND:UKW00015036"
+  },
+  {
+    "longitude": 27.7,
+    "latitude": 51.5,
+    "id": "GHCND:UPM00033203"
+  },
+  {
+    "longitude": 33,
+    "latitude": 50.02,
+    "id": "GHCND:UPM00033377"
+  },
+  {
+    "longitude": 27.267,
+    "latitude": 48.85,
+    "id": "GHCND:UPM00033557"
+  },
+  {
+    "longitude": 30.85,
+    "latitude": 48.05,
+    "id": "GHCND:UPM00033699"
+  },
+  {
+    "longitude": 34.8167,
+    "latitude": 46.1667,
+    "id": "GHCND:UPM00033910"
+  },
+  {
+    "longitude": 36.5,
+    "latitude": 49.6,
+    "id": "GHCND:UPM00034317"
+  },
+  {
+    "longitude": -96.6333,
+    "latitude": 43.7333,
+    "id": "GHCND:US009052008"
+  },
+  {
+    "longitude": -87.01667,
+    "latitude": 33.36667,
+    "id": "GHCND:USC00010757"
+  },
+  {
+    "longitude": -87.85,
+    "latitude": 32.51667,
+    "id": "GHCND:USC00012240"
+  },
+  {
+    "longitude": -87.68333,
+    "latitude": 30.28333,
+    "id": "GHCND:USC00013559"
+  },
+  {
+    "longitude": -86.74556,
+    "latitude": 34.72694,
+    "id": "GHCND:USC00014977"
+  },
+  {
+    "longitude": -86.31667,
+    "latitude": 33.6,
+    "id": "GHCND:USC00016328"
+  },
+  {
+    "longitude": -87.6099,
+    "latitude": 33.2231,
+    "id": "GHCND:USC00018380"
+  },
+  {
+    "longitude": -113.13333,
+    "latitude": 35.06667,
+    "id": "GHCND:USC00020291"
+  },
+  {
+    "longitude": -109.895,
+    "latitude": 31.42694,
+    "id": "GHCND:USC00020773"
+  },
+  {
+    "longitude": -111.83333,
+    "latitude": 33.3,
+    "id": "GHCND:USC00021511"
+  },
+  {
+    "longitude": -110.7313,
+    "latitude": 32.2844,
+    "id": "GHCND:USC00022480"
+  },
+  {
+    "longitude": -109.18333,
+    "latitude": 33.33333,
+    "id": "GHCND:USC00023258"
+  },
+  {
+    "longitude": -110.78333,
+    "latitude": 31.86667,
+    "id": "GHCND:USC00023981"
+  },
+  {
+    "longitude": -112.363,
+    "latitude": 33.4991,
+    "id": "GHCND:USC00024977"
+  },
+  {
+    "longitude": -109.53333,
+    "latitude": 35.13333,
+    "id": "GHCND:USC00025837"
+  },
+  {
+    "longitude": -112.02378,
+    "latitude": 33.44348,
+    "id": "GHCND:USC00026482"
+  },
+  {
+    "longitude": -111.7662,
+    "latitude": 33.0723,
+    "id": "GHCND:USC00027370"
+  },
+  {
+    "longitude": -113.21667,
+    "latitude": 32.86667,
+    "id": "GHCND:USC00027751"
+  },
+  {
+    "longitude": -110.41667,
+    "latitude": 35.5,
+    "id": "GHCND:USC00028483"
+  },
+  {
+    "longitude": -112.36667,
+    "latitude": 32.21667,
+    "id": "GHCND:USC00029109"
+  },
+  {
+    "longitude": -114.71667,
+    "latitude": 32.71667,
+    "id": "GHCND:USC00029657"
+  },
+  {
+    "longitude": -91.2152,
+    "latitude": 34.8822,
+    "id": "GHCND:USC00030936"
+  },
+  {
+    "longitude": -91.2627,
+    "latitude": 33.1144,
+    "id": "GHCND:USC00032355"
+  },
+  {
+    "longitude": -93.7522,
+    "latitude": 36.07,
+    "id": "GHCND:USC00033544"
+  },
+  {
+    "longitude": -94.1541,
+    "latitude": 35.6494,
+    "id": "GHCND:USC00035018"
+  },
+  {
+    "longitude": -92.2019,
+    "latitude": 33.9539,
+    "id": "GHCND:USC00036174"
+  },
+  {
+    "longitude": -92.68778,
+    "latitude": 36.29361,
+    "id": "GHCND:USC00038084"
+  },
+  {
+    "longitude": -116.11667,
+    "latitude": 35.38333,
+    "id": "GHCND:USC00040437"
+  },
+  {
+    "longitude": -120.0936,
+    "latitude": 39.3886,
+    "id": "GHCND:USC00040931"
+  },
+  {
+    "longitude": -116.4699,
+    "latitude": 32.6263,
+    "id": "GHCND:USC00041424"
+  },
+  {
+    "longitude": -122.71667,
+    "latitude": 38.98333,
+    "id": "GHCND:USC00041807"
+  },
+  {
+    "longitude": -122.2,
+    "latitude": 37.01667,
+    "id": "GHCND:USC00042290"
+  },
+  {
+    "longitude": -116.91667,
+    "latitude": 32.78333,
+    "id": "GHCND:USC00042705"
+  },
+  {
+    "longitude": -123.75639,
+    "latitude": 39.51,
+    "id": "GHCND:USC00043161"
+  },
+  {
+    "longitude": -121.7,
+    "latitude": 39.36667,
+    "id": "GHCND:USC00043639"
+  },
+  {
+    "longitude": -122.96667,
+    "latitude": 39.41667,
+    "id": "GHCND:USC00044156"
+  },
+  {
+    "longitude": -120.08778,
+    "latitude": 36.0725,
+    "id": "GHCND:USC00044536"
+  },
+  {
+    "longitude": -120.25,
+    "latitude": 37.23333,
+    "id": "GHCND:USC00044884"
+  },
+  {
+    "longitude": -122.268611,
+    "latitude": 38.100278,
+    "id": "GHCND:USC00045333"
+  },
+  {
+    "longitude": -118.88333,
+    "latitude": 34.28333,
+    "id": "GHCND:USC00045823"
+  },
+  {
+    "longitude": -119.6827,
+    "latitude": 34.9455,
+    "id": "GHCND:USC00046154"
+  },
+  {
+    "longitude": -122.1997,
+    "latitude": 39.7458,
+    "id": "GHCND:USC00046506"
+  },
+  {
+    "longitude": -117.23333,
+    "latitude": 33.78333,
+    "id": "GHCND:USC00046818"
+  },
+  {
+    "longitude": -117.6525,
+    "latitude": 35.3692,
+    "id": "GHCND:USC00047253"
+  },
+  {
+    "longitude": -117.25389,
+    "latitude": 34.13444,
+    "id": "GHCND:USC00047723"
+  },
+  {
+    "longitude": -118.49972,
+    "latitude": 34.0075,
+    "id": "GHCND:USC00047953"
+  },
+  {
+    "longitude": -120.23333,
+    "latitude": 39.2,
+    "id": "GHCND:USC00048474"
+  },
+  {
+    "longitude": -118.8619,
+    "latitude": 36.465,
+    "id": "GHCND:USC00048917"
+  },
+  {
+    "longitude": -124.18333,
+    "latitude": 40.25,
+    "id": "GHCND:USC00049177"
+  },
+  {
+    "longitude": -119.99667,
+    "latitude": 36.22722,
+    "id": "GHCND:USC00049560"
+  },
+  {
+    "longitude": -103.93333,
+    "latitude": 39.45,
+    "id": "GHCND:USC00050092"
+  },
+  {
+    "longitude": -106.68333,
+    "latitude": 39.88333,
+    "id": "GHCND:USC00050810"
+  },
+  {
+    "longitude": -104.8319,
+    "latitude": 39.6261,
+    "id": "GHCND:USC00051547"
+  },
+  {
+    "longitude": -106.45,
+    "latitude": 37.01667,
+    "id": "GHCND:USC00052048"
+  },
+  {
+    "longitude": -105.99357,
+    "latitude": 39.22194,
+    "id": "GHCND:USC00052816"
+  },
+  {
+    "longitude": -105.87057,
+    "latitude": 40.18185,
+    "id": "GHCND:USC00053500"
+  },
+  {
+    "longitude": -102.92989,
+    "latitude": 38.06332,
+    "id": "GHCND:USC00054388"
+  },
+  {
+    "longitude": -103.76667,
+    "latitude": 39.15,
+    "id": "GHCND:USC00055015"
+  },
+  {
+    "longitude": -104.8675,
+    "latitude": 39.1025,
+    "id": "GHCND:USC00055734"
+  },
+  {
+    "longitude": -108.9494,
+    "latitude": 38.3897,
+    "id": "GHCND:USC00056320"
+  },
+  {
+    "longitude": -107.2667,
+    "latitude": 37.722,
+    "id": "GHCND:USC00057050"
+  },
+  {
+    "longitude": -105.6,
+    "latitude": 40.58333,
+    "id": "GHCND:USC00057682"
+  },
+  {
+    "longitude": -108.7422,
+    "latitude": 38.3761,
+    "id": "GHCND:USC00058560"
+  },
+  {
+    "longitude": -102.2586,
+    "latitude": 40.3361,
+    "id": "GHCND:USC00059246"
+  },
+  {
+    "longitude": -73.28333,
+    "latitude": 41.9,
+    "id": "GHCND:USC00063495"
+  },
+  {
+    "longitude": -72.2285,
+    "latitude": 41.7951,
+    "id": "GHCND:USC00068138"
+  },
+  {
+    "longitude": -75.5414,
+    "latitude": 39.7739,
+    "id": "GHCND:USC00079605"
+  },
+  {
+    "longitude": -80.9144,
+    "latitude": 25.1422,
+    "id": "GHCND:USC00081305"
+  },
+  {
+    "longitude": -80.9073,
+    "latitude": 24.77048,
+    "id": "GHCND:USC00082441"
+  },
+  {
+    "longitude": -80.55,
+    "latitude": 25.5011,
+    "id": "GHCND:USC00084095"
+  },
+  {
+    "longitude": -83.4021,
+    "latitude": 30.4653,
+    "id": "GHCND:USC00085275"
+  },
+  {
+    "longitude": -82.31525,
+    "latitude": 27.24012,
+    "id": "GHCND:USC00086065"
+  },
+  {
+    "longitude": -85.7,
+    "latitude": 30.16667,
+    "id": "GHCND:USC00086836"
+  },
+  {
+    "longitude": -81.3101,
+    "latitude": 29.87643,
+    "id": "GHCND:USC00087826"
+  },
+  {
+    "longitude": -84.35581,
+    "latitude": 30.39638,
+    "id": "GHCND:USC00088756"
+  },
+  {
+    "longitude": -83.21667,
+    "latitude": 31.35,
+    "id": "GHCND:USC00090131"
+  },
+  {
+    "longitude": -84.366667,
+    "latitude": 31.833333,
+    "id": "GHCND:USC00091260"
+  },
+  {
+    "longitude": -84.43333,
+    "latitude": 33.1,
+    "id": "GHCND:USC00092198"
+  },
+  {
+    "longitude": -82.3606,
+    "latitude": 30.8264,
+    "id": "GHCND:USC00093325"
+  },
+  {
+    "longitude": -83.71611,
+    "latitude": 34.88472,
+    "id": "GHCND:USC00094281"
+  },
+  {
+    "longitude": -84.55,
+    "latitude": 33.95,
+    "id": "GHCND:USC00095525"
+  },
+  {
+    "longitude": -84.87472,
+    "latitude": 33.39694,
+    "id": "GHCND:USC00096340"
+  },
+  {
+    "longitude": -85.39,
+    "latitude": 34.4546,
+    "id": "GHCND:USC00098436"
+  },
+  {
+    "longitude": -82.9339,
+    "latitude": 31.355,
+    "id": "GHCND:USC00099451"
+  },
+  {
+    "longitude": -114.933333,
+    "latitude": 43.083333,
+    "id": "GHCND:USC00100940"
+  },
+  {
+    "longitude": -114.8661,
+    "latitude": 42.5503,
+    "id": "GHCND:USC00101551"
+  },
+  {
+    "longitude": -116.1,
+    "latitude": 43.75,
+    "id": "GHCND:USC00102451"
+  },
+  {
+    "longitude": -113.9274,
+    "latitude": 45.5395,
+    "id": "GHCND:USC00103554"
+  },
+  {
+    "longitude": -116.3,
+    "latitude": 48.25,
+    "id": "GHCND:USC00104341"
+  },
+  {
+    "longitude": -113.3689,
+    "latitude": 44.6867,
+    "id": "GHCND:USC00105169"
+  },
+  {
+    "longitude": -116.43333,
+    "latitude": 44.61667,
+    "id": "GHCND:USC00105859"
+  },
+  {
+    "longitude": -116.26667,
+    "latitude": 46.48333,
+    "id": "GHCND:USC00106681"
+  },
+  {
+    "longitude": -112.94793,
+    "latitude": 43.53252,
+    "id": "GHCND:USC00107536"
+  },
+  {
+    "longitude": -116.8316,
+    "latitude": 43.0022,
+    "id": "GHCND:USC00108412"
+  },
+  {
+    "longitude": -114.3461,
+    "latitude": 42.5458,
+    "id": "GHCND:USC00109303"
+  },
+  {
+    "longitude": -88.58333,
+    "latitude": 39.83333,
+    "id": "GHCND:USC00110591"
+  },
+  {
+    "longitude": -88.9671,
+    "latitude": 40.1375,
+    "id": "GHCND:USC00111743"
+  },
+  {
+    "longitude": -87.2736,
+    "latitude": 38.0302,
+    "id": "GHCND:USC00120852"
+  },
+  {
+    "longitude": -86.9371,
+    "latitude": 39.0313,
+    "id": "GHCND:USC00122605"
+  },
+  {
+    "longitude": -85.2891,
+    "latitude": 40.4355,
+    "id": "GHCND:USC00123777"
+  },
+  {
+    "longitude": -86.2122,
+    "latitude": 40.4614,
+    "id": "GHCND:USC00124667"
+  },
+  {
+    "longitude": -85.1,
+    "latitude": 39.11667,
+    "id": "GHCND:USC00125873"
+  },
+  {
+    "longitude": -87.59257,
+    "latitude": 38.35178,
+    "id": "GHCND:USC00127125"
+  },
+  {
+    "longitude": -86.16028,
+    "latitude": 39.40694,
+    "id": "GHCND:USC00128848"
+  },
+  {
+    "longitude": -86.34214,
+    "latitude": 40.56204,
+    "id": "GHCND:USC00129905"
+  },
+  {
+    "longitude": -92.4142,
+    "latitude": 40.7392,
+    "id": "GHCND:USC00130753"
+  },
+  {
+    "longitude": -94.3936,
+    "latitude": 41.0372,
+    "id": "GHCND:USC00131962"
+  },
+  {
+    "longitude": -92.7502,
+    "latitude": 41.7196,
+    "id": "GHCND:USC00133473"
+  },
+  {
+    "longitude": -90.4005,
+    "latitude": 41.5747,
+    "id": "GHCND:USC00134705"
+  },
+  {
+    "longitude": -93.98333,
+    "latitude": 41.08333,
+    "id": "GHCND:USC00135834"
+  },
+  {
+    "longitude": -96.16894,
+    "latitude": 43.42897,
+    "id": "GHCND:USC00137147"
+  },
+  {
+    "longitude": -92.0125,
+    "latitude": 42.1463,
+    "id": "GHCND:USC00138568"
+  },
+  {
+    "longitude": -101.04213,
+    "latitude": 39.79957,
+    "id": "GHCND:USC00140439"
+  },
+  {
+    "longitude": -100.3456,
+    "latitude": 37.8133,
+    "id": "GHCND:USC00141522"
+  },
+  {
+    "longitude": -95.77694,
+    "latitude": 37.2775,
+    "id": "GHCND:USC00142430"
+  },
+  {
+    "longitude": -101.70033,
+    "latitude": 39.36628,
+    "id": "GHCND:USC00143093"
+  },
+  {
+    "longitude": -97.9336,
+    "latitude": 38.038,
+    "id": "GHCND:USC00143921"
+  },
+  {
+    "longitude": -99.0994,
+    "latitude": 38.1818,
+    "id": "GHCND:USC00144530"
+  },
+  {
+    "longitude": -100.345,
+    "latitude": 37.285,
+    "id": "GHCND:USC00145171"
+  },
+  {
+    "longitude": -95.2881,
+    "latitude": 37.36767,
+    "id": "GHCND:USC00146242"
+  },
+  {
+    "longitude": -96.18,
+    "latitude": 37.1322,
+    "id": "GHCND:USC00147305"
+  },
+  {
+    "longitude": -101.58536,
+    "latitude": 38.91114,
+    "id": "GHCND:USC00148535"
+  },
+  {
+    "longitude": -88.3363,
+    "latitude": 36.858,
+    "id": "GHCND:USC00150611"
+  },
+  {
+    "longitude": -86.23238,
+    "latitude": 37.79332,
+    "id": "GHCND:USC00151810"
+  },
+  {
+    "longitude": -92.36667,
+    "latitude": 31.45,
+    "id": "GHCND:USC00161443"
+  },
+  {
+    "longitude": -93.2869,
+    "latitude": 30.8427,
+    "id": "GHCND:USC00162367"
+  },
+  {
+    "longitude": -89.9914,
+    "latitude": 29.2414,
+    "id": "GHCND:USC00163807"
+  },
+  {
+    "longitude": -91.4,
+    "latitude": 31.75,
+    "id": "GHCND:USC00165156"
+  },
+  {
+    "longitude": -91.01667,
+    "latitude": 32.33333,
+    "id": "GHCND:USC00166455"
+  },
+  {
+    "longitude": -89.7,
+    "latitude": 29.48333,
+    "id": "GHCND:USC00167471"
+  },
+  {
+    "longitude": -93.8416,
+    "latitude": 32.4513,
+    "id": "GHCND:USC00168448"
+  },
+  {
+    "longitude": -91.7022,
+    "latitude": 32.0997,
+    "id": "GHCND:USC00169806"
+  },
+  {
+    "longitude": -69.53333,
+    "latitude": 46.61667,
+    "id": "GHCND:USC00171479"
+  },
+  {
+    "longitude": -70.21667,
+    "latitude": 43.73333,
+    "id": "GHCND:USC00172751"
+  },
+  {
+    "longitude": -69.05389,
+    "latitude": 44.91528,
+    "id": "GHCND:USC00174550"
+  },
+  {
+    "longitude": -68.45,
+    "latitude": 45.98333,
+    "id": "GHCND:USC00176593"
+  },
+  {
+    "longitude": -70.29889,
+    "latitude": 43.59139,
+    "id": "GHCND:USC00177523"
+  },
+  {
+    "longitude": -69.65378,
+    "latitude": 44.52735,
+    "id": "GHCND:USC00179826"
+  },
+  {
+    "longitude": -77.0069,
+    "latitude": 39.1911,
+    "id": "GHCND:USC00181125"
+  },
+  {
+    "longitude": -76.216667,
+    "latitude": 39.666667,
+    "id": "GHCND:USC00182345"
+  },
+  {
+    "longitude": -76.8041,
+    "latitude": 38.9688,
+    "id": "GHCND:USC00183675"
+  },
+  {
+    "longitude": -76.41611,
+    "latitude": 39.29944,
+    "id": "GHCND:USC00185916"
+  },
+  {
+    "longitude": -75.88333,
+    "latitude": 38.95,
+    "id": "GHCND:USC00187575"
+  },
+  {
+    "longitude": -77,
+    "latitude": 38.98333,
+    "id": "GHCND:USC00188725"
+  },
+  {
+    "longitude": -71.9159,
+    "latitude": 42.6178,
+    "id": "GHCND:USC00190190"
+  },
+  {
+    "longitude": -69.9592,
+    "latitude": 41.657,
+    "id": "GHCND:USC00191386"
+  },
+  {
+    "longitude": -71.8,
+    "latitude": 42.566667,
+    "id": "GHCND:USC00192812"
+  },
+  {
+    "longitude": -72.666667,
+    "latitude": 42.3,
+    "id": "GHCND:USC00194115"
+  },
+  {
+    "longitude": -71.3,
+    "latitude": 42.6,
+    "id": "GHCND:USC00195490"
+  },
+  {
+    "longitude": -72.0721,
+    "latitude": 42.0583,
+    "id": "GHCND:USC00197627"
+  },
+  {
+    "longitude": -72.93333,
+    "latitude": 42.06667,
+    "id": "GHCND:USC00199221"
+  },
+  {
+    "longitude": -83.7611,
+    "latitude": 42.2875,
+    "id": "GHCND:USC00200220"
+  },
+  {
+    "longitude": -86.1311,
+    "latitude": 44.5316,
+    "id": "GHCND:USC00200758"
+  },
+  {
+    "longitude": -87.9859,
+    "latitude": 46.5193,
+    "id": "GHCND:USC00201439"
+  },
+  {
+    "longitude": -86.08333,
+    "latitude": 41.98333,
+    "id": "GHCND:USC00202248"
+  },
+  {
+    "longitude": -83.3625,
+    "latitude": 42.4669,
+    "id": "GHCND:USC00202691"
+  },
+  {
+    "longitude": -86.22444,
+    "latitude": 43.06222,
+    "id": "GHCND:USC00203290"
+  },
+  {
+    "longitude": -85.28819,
+    "latitude": 42.64208,
+    "id": "GHCND:USC00203661"
+  },
+  {
+    "longitude": -88.4318,
+    "latitude": 47.0083,
+    "id": "GHCND:USC00204161"
+  },
+  {
+    "longitude": -84.61667,
+    "latitude": 45.85,
+    "id": "GHCND:USC00204997"
+  },
+  {
+    "longitude": -86.41773,
+    "latitude": 43.461,
+    "id": "GHCND:USC00205567"
+  },
+  {
+    "longitude": -84.2,
+    "latitude": 45.18333,
+    "id": "GHCND:USC00206189"
+  },
+  {
+    "longitude": -85.4968,
+    "latitude": 43.875,
+    "id": "GHCND:USC00206884"
+  },
+  {
+    "longitude": -88.4158,
+    "latitude": 46.9828,
+    "id": "GHCND:USC00207344"
+  },
+  {
+    "longitude": -83.2,
+    "latitude": 42.91667,
+    "id": "GHCND:USC00208172"
+  },
+  {
+    "longitude": -86.61667,
+    "latitude": 46.38333,
+    "id": "GHCND:USC00208851"
+  },
+  {
+    "longitude": -92.01667,
+    "latitude": 44.15,
+    "id": "GHCND:USC00210559"
+  },
+  {
+    "longitude": -94.6147,
+    "latitude": 47.3847,
+    "id": "GHCND:USC00211374"
+  },
+  {
+    "longitude": -92.2108,
+    "latitude": 46.8368,
+    "id": "GHCND:USC00212250"
+  },
+  {
+    "longitude": -95.4392,
+    "latitude": 45.6584,
+    "id": "GHCND:USC00213174"
+  },
+  {
+    "longitude": -93.5013,
+    "latitude": 46.3197,
+    "id": "GHCND:USC00214103"
+  },
+  {
+    "longitude": -95.86667,
+    "latitude": 44.36667,
+    "id": "GHCND:USC00214987"
+  },
+  {
+    "longitude": -95.8745,
+    "latitude": 45.5901,
+    "id": "GHCND:USC00215638"
+  },
+  {
+    "longitude": -94.1,
+    "latitude": 45.966667,
+    "id": "GHCND:USC00216479"
+  },
+  {
+    "longitude": -93.3211,
+    "latitude": 46.7953,
+    "id": "GHCND:USC00217460"
+  },
+  {
+    "longitude": -96.128,
+    "latitude": 44.278,
+    "id": "GHCND:USC00218429"
+  },
+  {
+    "longitude": -94.0504,
+    "latitude": 47.4305,
+    "id": "GHCND:USC00219059"
+  },
+  {
+    "longitude": -91.38333,
+    "latitude": 31.38333,
+    "id": "GHCND:USC00221069"
+  },
+  {
+    "longitude": -91.06667,
+    "latitude": 31.68333,
+    "id": "GHCND:USC00222994"
+  },
+  {
+    "longitude": -90.29087,
+    "latitude": 34.20435,
+    "id": "GHCND:USC00224869"
+  },
+  {
+    "longitude": -88.71,
+    "latitude": 32.0338,
+    "id": "GHCND:USC00226638"
+  },
+  {
+    "longitude": -89.95918,
+    "latitude": 34.63106,
+    "id": "GHCND:USC00227921"
+  },
+  {
+    "longitude": -88.65,
+    "latitude": 33.61667,
+    "id": "GHCND:USC00229543"
+  },
+  {
+    "longitude": -93.5756,
+    "latitude": 37.0538,
+    "id": "GHCND:USC00230657"
+  },
+  {
+    "longitude": -90.9225,
+    "latitude": 37.50417,
+    "id": "GHCND:USC00231467"
+  },
+  {
+    "longitude": -94.6328,
+    "latitude": 39.5075,
+    "id": "GHCND:USC00232474"
+  },
+  {
+    "longitude": -90.45,
+    "latitude": 37.2,
+    "id": "GHCND:USC00233451"
+  },
+  {
+    "longitude": -94.28419,
+    "latitude": 37.59846,
+    "id": "GHCND:USC00234705"
+  },
+  {
+    "longitude": -93.96244,
+    "latitude": 36.86176,
+    "id": "GHCND:USC00235704"
+  },
+  {
+    "longitude": -93.98333,
+    "latitude": 37,
+    "id": "GHCND:USC00236683"
+  },
+  {
+    "longitude": -91.53613,
+    "latitude": 37.63388,
+    "id": "GHCND:USC00237506"
+  },
+  {
+    "longitude": -91.75,
+    "latitude": 38.116667,
+    "id": "GHCND:USC00238610"
+  },
+  {
+    "longitude": -112.0856,
+    "latitude": 45.0962,
+    "id": "GHCND:USC00240111"
+  },
+  {
+    "longitude": -106.35,
+    "latitude": 45.28333,
+    "id": "GHCND:USC00240821"
+  },
+  {
+    "longitude": -112.2919,
+    "latitude": 47.9262,
+    "id": "GHCND:USC00241342"
+  },
+  {
+    "longitude": -110.58333,
+    "latitude": 45.85,
+    "id": "GHCND:USC00241842"
+  },
+  {
+    "longitude": -113.2,
+    "latitude": 46.61667,
+    "id": "GHCND:USC00242511"
+  },
+  {
+    "longitude": -110.6611,
+    "latitude": 47.8304,
+    "id": "GHCND:USC00243113"
+  },
+  {
+    "longitude": -110.3027,
+    "latitude": 48.5646,
+    "id": "GHCND:USC00243530"
+  },
+  {
+    "longitude": -110.6677,
+    "latitude": 47.6415,
+    "id": "GHCND:USC00244133"
+  },
+  {
+    "longitude": -114.3113,
+    "latitude": 48.1891,
+    "id": "GHCND:USC00244563"
+  },
+  {
+    "longitude": -114.533,
+    "latitude": 46.7258,
+    "id": "GHCND:USC00245144"
+  },
+  {
+    "longitude": -105.2919,
+    "latitude": 46.2858,
+    "id": "GHCND:USC00245754"
+  },
+  {
+    "longitude": -113.0564,
+    "latitude": 46.8819,
+    "id": "GHCND:USC00246304"
+  },
+  {
+    "longitude": -104.5751,
+    "latitude": 48.9976,
+    "id": "GHCND:USC00246893"
+  },
+  {
+    "longitude": -109.3441,
+    "latitude": 46.5333,
+    "id": "GHCND:USC00247263"
+  },
+  {
+    "longitude": -110.2157,
+    "latitude": 48.998,
+    "id": "GHCND:USC00247620"
+  },
+  {
+    "longitude": -105.49528,
+    "latitude": 47.07,
+    "id": "GHCND:USC00248169"
+  },
+  {
+    "longitude": -105.3686,
+    "latitude": 47.8799,
+    "id": "GHCND:USC00248569"
+  },
+  {
+    "longitude": -105.53333,
+    "latitude": 48.08333,
+    "id": "GHCND:USC00249111"
+  },
+  {
+    "longitude": -97.9958,
+    "latitude": 40.8586,
+    "id": "GHCND:USC00250445"
+  },
+  {
+    "longitude": -100.075,
+    "latitude": 41.2522,
+    "id": "GHCND:USC00251408"
+  },
+  {
+    "longitude": -97.483333,
+    "latitude": 41.383333,
+    "id": "GHCND:USC00252465"
+  },
+  {
+    "longitude": -97.59048,
+    "latitude": 40.53936,
+    "id": "GHCND:USC00253175"
+  },
+  {
+    "longitude": -99.3802,
+    "latitude": 40.4518,
+    "id": "GHCND:USC00253910"
+  },
+  {
+    "longitude": -96.4788,
+    "latitude": 41.9377,
+    "id": "GHCND:USC00255050"
+  },
+  {
+    "longitude": -96.98844,
+    "latitude": 42.38447,
+    "id": "GHCND:USC00256018"
+  },
+  {
+    "longitude": -96.7442,
+    "latitude": 40.9536,
+    "id": "GHCND:USC00257055"
+  },
+  {
+    "longitude": -96.1891,
+    "latitude": 40.6661,
+    "id": "GHCND:USC00258395"
+  },
+  {
+    "longitude": -96.6711,
+    "latitude": 40.1269,
+    "id": "GHCND:USC00259475"
+  },
+  {
+    "longitude": -114.12694,
+    "latitude": 36.76917,
+    "id": "GHCND:USC00261327"
+  },
+  {
+    "longitude": -115.93333,
+    "latitude": 39.8,
+    "id": "GHCND:USC00262301"
+  },
+  {
+    "longitude": -119.85,
+    "latitude": 39,
+    "id": "GHCND:USC00263040"
+  },
+  {
+    "longitude": -115.43333,
+    "latitude": 41.93333,
+    "id": "GHCND:USC00264038"
+  },
+  {
+    "longitude": -71.123,
+    "latitude": 44.7888,
+    "id": "GHCND:USC00272842"
+  },
+  {
+    "longitude": -71.46667,
+    "latitude": 43.55,
+    "id": "GHCND:USC00274475"
+  },
+  {
+    "longitude": -71.24695,
+    "latitude": 43.21405,
+    "id": "GHCND:USC00276368"
+  },
+  {
+    "longitude": -71.7383,
+    "latitude": 43.0847,
+    "id": "GHCND:USC00278972"
+  },
+  {
+    "longitude": -74.42477,
+    "latitude": 41.02996,
+    "id": "GHCND:USC00281582"
+  },
+  {
+    "longitude": -74.00153,
+    "latitude": 40.29698,
+    "id": "GHCND:USC00284987"
+  },
+  {
+    "longitude": -74.2683,
+    "latitude": 41.0917,
+    "id": "GHCND:USC00287587"
+  },
+  {
+    "longitude": -107.9,
+    "latitude": 33.56667,
+    "id": "GHCND:USC00290119"
+  },
+  {
+    "longitude": -106.76667,
+    "latitude": 34.66667,
+    "id": "GHCND:USC00290846"
+  },
+  {
+    "longitude": -104.2224,
+    "latitude": 32.3479,
+    "id": "GHCND:USC00291469"
+  },
+  {
+    "longitude": -105.58333,
+    "latitude": 34.25,
+    "id": "GHCND:USC00292093"
+  },
+  {
+    "longitude": -106.1877,
+    "latitude": 36.3466,
+    "id": "GHCND:USC00292820"
+  },
+  {
+    "longitude": -108.34833,
+    "latitude": 36.73806,
+    "id": "GHCND:USC00293340"
+  },
+  {
+    "longitude": -108.86667,
+    "latitude": 31.51667,
+    "id": "GHCND:USC00293690"
+  },
+  {
+    "longitude": -108.98333,
+    "latitude": 35.3,
+    "id": "GHCND:USC00294402"
+  },
+  {
+    "longitude": -106.7611,
+    "latitude": 34.7675,
+    "id": "GHCND:USC00295150"
+  },
+  {
+    "longitude": -103.96667,
+    "latitude": 35.78333,
+    "id": "GHCND:USC00295931"
+  },
+  {
+    "longitude": -103.38333,
+    "latitude": 32.65,
+    "id": "GHCND:USC00296659"
+  },
+  {
+    "longitude": -104.43333,
+    "latitude": 36.9,
+    "id": "GHCND:USC00297277"
+  },
+  {
+    "longitude": -106.45,
+    "latitude": 35.21667,
+    "id": "GHCND:USC00298011"
+  },
+  {
+    "longitude": -104.3811,
+    "latitude": 34.6033,
+    "id": "GHCND:USC00298596"
+  },
+  {
+    "longitude": -103.4433,
+    "latitude": 35.36,
+    "id": "GHCND:USC00299284"
+  },
+  {
+    "longitude": -75.91667,
+    "latitude": 44.33333,
+    "id": "GHCND:USC00300077"
+  },
+  {
+    "longitude": -73.96667,
+    "latitude": 40.6,
+    "id": "GHCND:USC00300621"
+  },
+  {
+    "longitude": -73.68333,
+    "latitude": 41.43333,
+    "id": "GHCND:USC00301207"
+  },
+  {
+    "longitude": -73.5522,
+    "latitude": 42.1131,
+    "id": "GHCND:USC00301761"
+  },
+  {
+    "longitude": -76.8358,
+    "latitude": 42.0997,
+    "id": "GHCND:USC00302610"
+  },
+  {
+    "longitude": -74.43333,
+    "latitude": 43.1,
+    "id": "GHCND:USC00303324"
+  },
+  {
+    "longitude": -74.24778,
+    "latitude": 43.31167,
+    "id": "GHCND:USC00303970"
+  },
+  {
+    "longitude": -74.8686,
+    "latitude": 43.0603,
+    "id": "GHCND:USC00304791"
+  },
+  {
+    "longitude": -73.62333,
+    "latitude": 40.74944,
+    "id": "GHCND:USC00305380"
+  },
+  {
+    "longitude": -74.11667,
+    "latitude": 40.63333,
+    "id": "GHCND:USC00305821"
+  },
+  {
+    "longitude": -73.00139,
+    "latitude": 40.79667,
+    "id": "GHCND:USC00306441"
+  },
+  {
+    "longitude": -74.55,
+    "latitude": 42.633333,
+    "id": "GHCND:USC00307088"
+  },
+  {
+    "longitude": -74.2,
+    "latitude": 41.95,
+    "id": "GHCND:USC00307721"
+  },
+  {
+    "longitude": -75.83689,
+    "latitude": 44.27543,
+    "id": "GHCND:USC00308455"
+  },
+  {
+    "longitude": -74.9003,
+    "latitude": 44.148,
+    "id": "GHCND:USC00308944"
+  },
+  {
+    "longitude": -73.76667,
+    "latitude": 41.26667,
+    "id": "GHCND:USC00309660"
+  },
+  {
+    "longitude": -81.64563,
+    "latitude": 36.21395,
+    "id": "GHCND:USC00310982"
+  },
+  {
+    "longitude": -82.2,
+    "latitude": 35.433333,
+    "id": "GHCND:USC00311760"
+  },
+  {
+    "longitude": -80.86396,
+    "latitude": 36.25465,
+    "id": "GHCND:USC00312740"
+  },
+  {
+    "longitude": -77.38333,
+    "latitude": 35.6,
+    "id": "GHCND:USC00313643"
+  },
+  {
+    "longitude": -82.18753,
+    "latitude": 35.42041,
+    "id": "GHCND:USC00314764"
+  },
+  {
+    "longitude": -80.65226,
+    "latitude": 36.49618,
+    "id": "GHCND:USC00315890"
+  },
+  {
+    "longitude": -77.0859,
+    "latitude": 35.0556,
+    "id": "GHCND:USC00316676"
+  },
+  {
+    "longitude": -78.88588,
+    "latitude": 36.34643,
+    "id": "GHCND:USC00317516"
+  },
+  {
+    "longitude": -82.385,
+    "latitude": 35.57333,
+    "id": "GHCND:USC00318448"
+  },
+  {
+    "longitude": -77.94611,
+    "latitude": 35.69389,
+    "id": "GHCND:USC00319476"
+  },
+  {
+    "longitude": -102.2463,
+    "latitude": 48.7994,
+    "id": "GHCND:USC00320961"
+  },
+  {
+    "longitude": -98.5169,
+    "latitude": 48.4583,
+    "id": "GHCND:USC00322525"
+  },
+  {
+    "longitude": -103.93333,
+    "latitude": 48.61667,
+    "id": "GHCND:USC00323736"
+  },
+  {
+    "longitude": -100.3258,
+    "latitude": 46.3022,
+    "id": "GHCND:USC00325211"
+  },
+  {
+    "longitude": -101.509,
+    "latitude": 48.7602,
+    "id": "GHCND:USC00326025"
+  },
+  {
+    "longitude": -100.03333,
+    "latitude": 48.83333,
+    "id": "GHCND:USC00327824"
+  },
+  {
+    "longitude": -103.213,
+    "latitude": 48.663,
+    "id": "GHCND:USC00329400"
+  },
+  {
+    "longitude": -81.766667,
+    "latitude": 41.433333,
+    "id": "GHCND:USC00330728"
+  },
+  {
+    "longitude": -83.00361,
+    "latitude": 39.37444,
+    "id": "GHCND:USC00331528"
+  },
+  {
+    "longitude": -84.19025,
+    "latitude": 39.78175,
+    "id": "GHCND:USC00332067"
+  },
+  {
+    "longitude": -82.516667,
+    "latitude": 40.1,
+    "id": "GHCND:USC00333315"
+  },
+  {
+    "longitude": -81.07892,
+    "latitude": 41.14329,
+    "id": "GHCND:USC00334261"
+  },
+  {
+    "longitude": -82.1,
+    "latitude": 39.75,
+    "id": "GHCND:USC00335310"
+  },
+  {
+    "longitude": -84.05,
+    "latitude": 41.01667,
+    "id": "GHCND:USC00336337"
+  },
+  {
+    "longitude": -84.16667,
+    "latitude": 40.31667,
+    "id": "GHCND:USC00337700"
+  },
+  {
+    "longitude": -80.8105,
+    "latitude": 41.2019,
+    "id": "GHCND:USC00338769"
+  },
+  {
+    "longitude": -98.6878,
+    "latitude": 36.8014,
+    "id": "GHCND:USC00340193"
+  },
+  {
+    "longitude": -97.3,
+    "latitude": 36.8,
+    "id": "GHCND:USC00340814"
+  },
+  {
+    "longitude": -98.4244,
+    "latitude": 36.7673,
+    "id": "GHCND:USC00341724"
+  },
+  {
+    "longitude": -99.50639,
+    "latitude": 35.3925,
+    "id": "GHCND:USC00342849"
+  },
+  {
+    "longitude": -98.133,
+    "latitude": 36.7425,
+    "id": "GHCND:USC00343740"
+  },
+  {
+    "longitude": -96.35,
+    "latitude": 33.766667,
+    "id": "GHCND:USC00344745"
+  },
+  {
+    "longitude": -94.96694,
+    "latitude": 35.14472,
+    "id": "GHCND:USC00345693"
+  },
+  {
+    "longitude": -96.18333,
+    "latitude": 34.71667,
+    "id": "GHCND:USC00346901"
+  },
+  {
+    "longitude": -96.68014,
+    "latitude": 35.23124,
+    "id": "GHCND:USC00348042"
+  },
+  {
+    "longitude": -97.7648,
+    "latitude": 34.5289,
+    "id": "GHCND:USC00349130"
+  },
+  {
+    "longitude": -117.06667,
+    "latitude": 43.73333,
+    "id": "GHCND:USC00350041"
+  },
+  {
+    "longitude": -119.75,
+    "latitude": 44.5,
+    "id": "GHCND:USC00350769"
+  },
+  {
+    "longitude": -123.25,
+    "latitude": 45.41667,
+    "id": "GHCND:USC00351552"
+  },
+  {
+    "longitude": -123.2911,
+    "latitude": 44.9464,
+    "id": "GHCND:USC00352112"
+  },
+  {
+    "longitude": -117.08333,
+    "latitude": 45.56667,
+    "id": "GHCND:USC00352677"
+  },
+  {
+    "longitude": -124.11,
+    "latitude": 43.733333,
+    "id": "GHCND:USC00353192"
+  },
+  {
+    "longitude": -119.26361,
+    "latitude": 45.82889,
+    "id": "GHCND:USC00353847"
+  },
+  {
+    "longitude": -121.933333,
+    "latitude": 42.6,
+    "id": "GHCND:USC00354499"
+  },
+  {
+    "longitude": -121.1101,
+    "latitude": 44.6236,
+    "id": "GHCND:USC00355139"
+  },
+  {
+    "longitude": -120.15,
+    "latitude": 44.56667,
+    "id": "GHCND:USC00355642"
+  },
+  {
+    "longitude": -122.05,
+    "latitude": 43.58333,
+    "id": "GHCND:USC00356254"
+  },
+  {
+    "longitude": -124.50177,
+    "latitude": 42.75143,
+    "id": "GHCND:USC00356784"
+  },
+  {
+    "longitude": -123.033333,
+    "latitude": 42.366667,
+    "id": "GHCND:USC00357519"
+  },
+  {
+    "longitude": -119.2,
+    "latitude": 45.783333,
+    "id": "GHCND:USC00358050"
+  },
+  {
+    "longitude": -122.38333,
+    "latitude": 45.53333,
+    "id": "GHCND:USC00358632"
+  },
+  {
+    "longitude": -122.85,
+    "latitude": 45.81667,
+    "id": "GHCND:USC00359051"
+  },
+  {
+    "longitude": -78.083333,
+    "latitude": 41.666667,
+    "id": "GHCND:USC00360307"
+  },
+  {
+    "longitude": -79.083333,
+    "latitude": 41.166667,
+    "id": "GHCND:USC00361001"
+  },
+  {
+    "longitude": -78.49783,
+    "latitude": 41.69965,
+    "id": "GHCND:USC00361526"
+  },
+  {
+    "longitude": -79.2,
+    "latitude": 40.68333,
+    "id": "GHCND:USC00361881"
+  },
+  {
+    "longitude": -78.25,
+    "latitude": 41.46667,
+    "id": "GHCND:USC00362634"
+  },
+  {
+    "longitude": -79.9167,
+    "latitude": 39.7833,
+    "id": "GHCND:USC00363451"
+  },
+  {
+    "longitude": -79.16667,
+    "latitude": 40.61667,
+    "id": "GHCND:USC00364219"
+  },
+  {
+    "longitude": -77.21389,
+    "latitude": 40.90167,
+    "id": "GHCND:USC00364853"
+  },
+  {
+    "longitude": -80.2349,
+    "latitude": 41.2246,
+    "id": "GHCND:USC00365651"
+  },
+  {
+    "longitude": -77.1875,
+    "latitude": 40.419167,
+    "id": "GHCND:USC00366198"
+  },
+  {
+    "longitude": -76.36667,
+    "latitude": 40.56667,
+    "id": "GHCND:USC00366954"
+  },
+  {
+    "longitude": -79.5459,
+    "latitude": 40.5101,
+    "id": "GHCND:USC00367782"
+  },
+  {
+    "longitude": -76.77527,
+    "latitude": 40.86621,
+    "id": "GHCND:USC00368668"
+  },
+  {
+    "longitude": -76.95,
+    "latitude": 40.05,
+    "id": "GHCND:USC00369420"
+  },
+  {
+    "longitude": -71.466667,
+    "latitude": 41.433333,
+    "id": "GHCND:USC00375110"
+  },
+  {
+    "longitude": -79.6822,
+    "latitude": 34.6488,
+    "id": "GHCND:USC00380635"
+  },
+  {
+    "longitude": -80.32468,
+    "latitude": 32.50403,
+    "id": "GHCND:USC00382730"
+  },
+  {
+    "longitude": -80.42111,
+    "latitude": 33.32583,
+    "id": "GHCND:USC00384197"
+  },
+  {
+    "longitude": -82.14392,
+    "latitude": 33.92356,
+    "id": "GHCND:USC00385658"
+  },
+  {
+    "longitude": -80.96667,
+    "latitude": 34.98333,
+    "id": "GHCND:USC00387390"
+  },
+  {
+    "longitude": -83.0751,
+    "latitude": 34.7545,
+    "id": "GHCND:USC00388887"
+  },
+  {
+    "longitude": -102.61667,
+    "latitude": 45.11667,
+    "id": "GHCND:USC00390706"
+  },
+  {
+    "longitude": -103.3667,
+    "latitude": 43.8694,
+    "id": "GHCND:USC00392063"
+  },
+  {
+    "longitude": -103.47683,
+    "latitude": 44.41066,
+    "id": "GHCND:USC00393069"
+  },
+  {
+    "longitude": -103.55735,
+    "latitude": 43.93425,
+    "id": "GHCND:USC00393868"
+  },
+  {
+    "longitude": -97.13333,
+    "latitude": 44,
+    "id": "GHCND:USC00395088"
+  },
+  {
+    "longitude": -97.18397,
+    "latitude": 43.70308,
+    "id": "GHCND:USC00395733"
+  },
+  {
+    "longitude": -103.2,
+    "latitude": 44.06666,
+    "id": "GHCND:USC00396936"
+  },
+  {
+    "longitude": -101.0764,
+    "latitude": 45.4284,
+    "id": "GHCND:USC00398307"
+  },
+  {
+    "longitude": -89.11755,
+    "latitude": 35.79765,
+    "id": "GHCND:USC00400049"
+  },
+  {
+    "longitude": -86.4869,
+    "latitude": 35.7047,
+    "id": "GHCND:USC00401720"
+  },
+  {
+    "longitude": -83.56667,
+    "latitude": 35.65,
+    "id": "GHCND:USC00402841"
+  },
+  {
+    "longitude": -83.47389,
+    "latitude": 36.12222,
+    "id": "GHCND:USC00404613"
+  },
+  {
+    "longitude": -84.33333,
+    "latitude": 35.73333,
+    "id": "GHCND:USC00405451"
+  },
+  {
+    "longitude": -86.70278,
+    "latitude": 35.12722,
+    "id": "GHCND:USC00406404"
+  },
+  {
+    "longitude": -85.6418,
+    "latitude": 35.8093,
+    "id": "GHCND:USC00407808"
+  },
+  {
+    "longitude": -82.4,
+    "latitude": 36.16667,
+    "id": "GHCND:USC00409209"
+  },
+  {
+    "longitude": -101.7092,
+    "latitude": 35.2327,
+    "id": "GHCND:USC00410213"
+  },
+  {
+    "longitude": -97.33333,
+    "latitude": 30.1,
+    "id": "GHCND:USC00410542"
+  },
+  {
+    "longitude": -102.2563,
+    "latitude": 35.5302,
+    "id": "GHCND:USC00411000"
+  },
+  {
+    "longitude": -101.9263,
+    "latitude": 34.9805,
+    "id": "GHCND:USC00411430"
+  },
+  {
+    "longitude": -102.56667,
+    "latitude": 36.4,
+    "id": "GHCND:USC00411874"
+  },
+  {
+    "longitude": -97.3432,
+    "latitude": 29.0893,
+    "id": "GHCND:USC00412173"
+  }
+]

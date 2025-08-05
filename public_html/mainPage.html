@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Main page of past weather record document</title>
+    <style>
+        body {
+            background-color: bisque;
+            font-family: Georgia, 'Times New Roman', Times, serif;
+            color: darkgrey;
+        }
+        h1 {
+            font-size: large;
+        }
+        .map {
+            position: absolute;
+            left: 20px;
+            height: 50%;
+            width: 50%;
+            padding: 4px;
+            box-sizing: border-box;
+        }
+        .coordinates {
+            position: absolute;
+            right: 20px;
+            padding: 4px;
+            box-sizing: border-box;
+        }
+    </style>
+    <script async src="https://maps.googleapis.com/maps/api/js?key=AIzaSyB4yROsZQ3D6_y3hGrbTZ_zfpS9a_X61OE&callback=initMap"></script>
+</head>
+<body>
+    <h1>Welcome to the site where you can view and compare weather records by city!</h1>
+    <h2>Below: you'll be able to play around with a variety of tools to compare and contrast 
+        weather data city by city!
+    </h2>
+    <div class="map" id="map"></div>
+
+    <div class = "coordinates">
+        <form action = "/getLatandLang" method = "POST">
+            <label for = "id">Input your location id here:</label>
+            <input type="text" id="id" name="id" required>
+            <button type="submit">Submit</button> <!-- Added submit button -->
+        </form>
+    </div>
+
+    <script>
+        async function initMap() {
+            const map = new google.maps.Map(document.getElementById('map'), {
+                center: { lat: 37.4239163, lng: -122.0947209 },
+                zoom: 10,
+            });
+    
+            // Fetch the coordinates from your server
+            const response = await fetch('/api/coordinates');
+            const coordinates = await response.json();
+    
+            // Loop through each location and add a marker
+            for (const location of coordinates) {
+                const marker = new google.maps.Marker({
+                    map: map,
+                    position: { lat: location.latitude, lng: location.longitude },
+                    title: location.title || "Weather Location"
+                });
+                
+                marker.addListener('click', () => {
+                    const lat = location.latitude;
+                    const lng = location.longitude;
+                    const id = location.id;
+    
+                    alert(`Latitude: ${lat}, Longitude: ${lng} - Please input the id ${id} into the box on the right!`);
+                });
+            }
+        }
+    </script>
+</body>
+</html>

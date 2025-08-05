@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Past Weather Data</title> 
+    <style>
+        body {
+            display: flex;
+            flex-direction: row;
+            justify-content: space-between;
+            align-items: flex-start;
+            margin: 0;
+            padding: 0;
+            font-family: Arial, sans-serif;
+        }
+        .monthlyTemps, .monthlyPrecip {
+            flex: 1;
+            padding: 20px;
+            box-sizing: border-box;
+        }
+        .monthlyTemps {
+            border-right: 4px solid #ccc;
+        }
+        h1 {
+            font-size: 18px;
+            margin-bottom: 12px;
+        }
+    </style>
+    <!-- Load Chart.js -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script> 
+</head>
+<body>
+    <div class="monthlyTemps">
+        <h1>Monthly Temperature by 5-Year Period</h1>
+        <canvas id="janTemp"></canvas> 
+        <canvas id="febTemp"></canvas> 
+        <canvas id="marTemp"></canvas> 
+        <canvas id="aprTemp"></canvas> 
+        <canvas id="mayTemp"></canvas> 
+        <canvas id="junTemp"></canvas> 
+        <canvas id="julTemp"></canvas> 
+        <canvas id="augTemp"></canvas> 
+        <canvas id="sepTemp"></canvas> 
+        <canvas id="octTemp"></canvas> 
+        <canvas id="novTemp"></canvas> 
+        <canvas id="decTemp"></canvas> 
+    </div>
+
+    <div class="monthlyPrecip">
+        <h1>Monthly Precipitation by 5-Year Period</h1>
+        <canvas id="janPrecip"></canvas>     
+        <canvas id="febPrecip"></canvas>     
+        <canvas id="marPrecip"></canvas>     
+        <canvas id="aprPrecip"></canvas>    
+        <canvas id="mayPrecip"></canvas> 
+        <canvas id="junPrecip"></canvas> 
+        <canvas id="julPrecip"></canvas> 
+        <canvas id="augPrecip"></canvas> 
+        <canvas id="sepPrecip"></canvas> 
+        <canvas id="octPrecip"></canvas> 
+        <canvas id="novPrecip"></canvas> 
+        <canvas id="decPrecip"></canvas> 
+    </div>
+
+    <script>
+        // Parse the data from EJS
+        const pastTemps = <%= JSON.stringify(pastTemps) %>;
+        const pastPrecip = <%= JSON.stringify(pastPrecip) %>;
+        
+        // Ensure the arrays are correctly sliced
+        const monthTemps = Array.from({ length: 12 }, () => []); // Create 12 empty arrays
+        const monthPrecip = Array.from({ length: 12 }, () => []); // 12 empty array for precip data
+
+        pastTemps.forEach((temp) => {
+            const monthIndex = parseInt(temp.month, 10) - 1; // Convert month to integer (0-based index)
+            monthTemps[monthIndex].push(temp); // Push the temp into the corresponding month
+        });
+
+        pastPrecip.forEach((precip) => {
+            const monthIndex = parseInt(precip.month, 10) - 1; // Convert month to integer (0-based index)
+            monthPrecip[monthIndex].push(precip); // Push the precip into the corresponding month
+        });
+        
+        const monthTempNames = ["janTemp", "febTemp", "marTemp", "aprTemp", "mayTemp", "junTemp", 
+                                "julTemp", "augTemp", "sepTemp", "octTemp", "novTemp", "decTemp"];
+        
+        const monthPrecipNames = ["janPrecip", "febPrecip", "marPrecip", "aprPrecip", "mayPrecip",
+                                  "junPrecip", "julPrecip", "augPrecip", "sepPrecip", "octPrecip", 
+                                  "novPrecip", "decPrecip"];
+
+        // Function to create charts
+        function createChart(canvasId, data, label, yLabel) {
+            const ctx = document.getElementById(canvasId)?.getContext('2d');
+            if (ctx) {
+                new Chart(ctx, {
+                    type: 'line',
+                    data: {
+                        labels: Array(data.length).fill().map((_, idx) => idx + 1),
+                        datasets: [{
+                            label: label,
+                            data: data,
+                            borderColor: 'rgba(75, 192, 192, 1)',
+                            backgroundColor: 'rgba(75, 192, 192, 0.2)',
+                            fill: false,
+                            pointRadius: 5,
+                            pointStyle: 'circle'
+                        }]
+                    },
+                    options: {
+                        responsive: true,
+                        scales: {
+                            x: { title: { display: true, text: '5-Year Intervals' } },
+                            y: { title: { display: true, text: yLabel } }
+                        }
+                    }
+                });
+            }
+        }
+
+        // Create temperature charts
+        for (let i = 0; i < 12; ++i) {
+            createChart(monthTempNames[i], monthTemps[i]?.map(temp => temp.value) || [], `Temperature - ${monthTempNames[i]}`, 'Temperature (°F)');
+        }
+
+        // Create precipitation charts
+        for (let i = 0; i < 12; ++i) {
+            createChart(monthPrecipNames[i], monthPrecip[i]?.map(precip => precip.value) || [], `Precipitation - ${monthPrecipNames[i]}`, 'Precipitation (inches)');
+        }
+    </script>
+</body>
+</html>
